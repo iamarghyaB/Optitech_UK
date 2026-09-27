@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-const base='http://127.0.0.1:4173';
+const base=process.env.BASE_URL||'http://127.0.0.1:4173';
 const routes=JSON.parse(await fs.readFile('routes.json','utf8'));
 const urls=new Set(),failures=[];let checks=0;
 // Check the complete saved asset inventory, independently of which pages have

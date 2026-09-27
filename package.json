@@ -4,8 +4,22 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.mjs",
-    "build": "node scripts/build.mjs",
-    "verify": "node scripts/verify.mjs"
+    "start": "next start --hostname 127.0.0.1 --port 4173",
+    "build": "next build",
+    "verify": "node scripts/verify.mjs",
+    "prestart": "node scripts/check-assets.mjs",
+    "preverify": "node scripts/check-assets.mjs",
+    "check:assets": "node scripts/check-assets.mjs",
+    "assets:restore": "git lfs checkout && node scripts/check-assets.mjs",
+    "dev": "next dev --hostname 127.0.0.1 --port 4173",
+    "predev": "node scripts/check-assets.mjs",
+    "prebuild": "node scripts/check-assets.mjs",
+    "build:reference": "node scripts/build.mjs",
+    "test:migration": "node scripts/test-next.mjs"
+  },
+  "dependencies": {
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
