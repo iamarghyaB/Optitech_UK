@@ -1,0 +1,25 @@
+<svg viewBox="0 0 208.5 32.5" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  
+  <g id="svg145">
+    
+    <g id="layer1">
+      <g id="g244">
+        <polygon points="132.9 .5 132.9 4 153 4 155 .5 132.9 .5" id="polygon151"></polygon>
+        <polygon points="132.9 14.5 132.9 18 153 18 155 14.5 132.9 14.5" id="polygon153"></polygon>
+        <polygon points="132.9 28.6 132.9 32 153 32 155 28.6 132.9 28.6" id="polygon155"></polygon>
+        <path d="M199.2,10.3v-2c0-4.3-3.5-7.8-7.8-7.8h-14.3v31.5h3.5v-14h6.5l8.1,14h4l-8.1-14h.3c4.3,0,7.8-3.5,7.8-7.8h0s0,0,0,0ZM180.5,4h10.8c2.4,0,4.3,1.9,4.3,4.3v2c0,2.4-1.9,4.3-4.3,4.3h-10.8V4Z" id="path157"></path>
+        <path d="M22.6,10.3v-2c0-4.3-3.5-7.8-7.8-7.8H.5v31.5h3.5v-14h6.5l8.1,14h4l-8.1-14h.3c4.3,0,7.8-3.5,7.8-7.8ZM4,4h10.8c2.4,0,4.3,1.9,4.3,4.3v2c0,2.4-1.9,4.3-4.3,4.3H4V4Z" id="path159"></path>
+        <polygon points="55.6 9.8 64.6 32 68.4 32 57.5 5.1 55.6 .5 53.8 5.1 42.9 32 46.6 32 55.6 9.8" id="polygon161"></polygon>
+        <path d="M201.9.5h2.2v.4h-.8v2.6h-.5V.9h-.9v-.4Z" id="path163"></path>
+        <path d="M205,.5h.8l.7,2.4.7-2.4h.9v3h-.5V1h0l-.7,2.4h-.5l-.8-2.4h0v2.5h-.5V.5Z" id="path165"></path>
+        <polygon points="88.8 .5 88.8 4 105 4 90.8 28.6 88.8 32 92.8 32 109 32 111 28.6 94.8 28.6 109 4 111 .5 107 .5 88.8 .5" id="polygon167"></polygon>
+        <polygon points="132.9 .5 132.9 4 153 4 155 .5 132.9 .5" id="polygon169"></polygon>
+        <polygon points="132.9 14.5 132.9 18 153 18 155 14.5 132.9 14.5" id="polygon171"></polygon>
+        <polygon points="132.9 28.6 132.9 32 153 32 155 28.6 132.9 28.6" id="polygon173"></polygon>
+        <path d="M199.2,10.3" id="path175"></path>
+        <path d="M22.6,10.3" id="path177"></path>
+        <polygon points="55.6 9.8 64.6 32 68.4 32 57.5 5.1 55.6 .5 53.8 5.1 42.9 32 46.6 32 55.6 9.8" id="polygon179"></polygon>
+      </g>
+    </g>
+  </g>
+</svg>

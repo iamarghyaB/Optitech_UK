@@ -1,0 +1,74 @@
+{
+  "/clients": {
+    "html": "pages/clients.html",
+    "rsc": "pages/clients.rsc"
+  },
+  "/contact": {
+    "html": "pages/contact.html",
+    "rsc": "pages/contact.rsc"
+  },
+  "/cookie-policy": {
+    "html": "pages/cookie-policy.html",
+    "rsc": "pages/cookie-policy.rsc"
+  },
+  "/": {
+    "html": "index.html",
+    "rsc": "pages/home.rsc"
+  },
+  "/privacy-policy": {
+    "html": "pages/privacy-policy.html",
+    "rsc": "pages/privacy-policy.rsc"
+  },
+  "/universe": {
+    "html": "pages/universe.html",
+    "rsc": "pages/universe.rsc"
+  },
+  "/work": {
+    "html": "pages/work.html",
+    "rsc": "pages/work.rsc"
+  },
+  "/work/anaconda": {
+    "html": "pages/work__anaconda.html",
+    "rsc": "pages/work__anaconda.rsc"
+  },
+  "/work/cadillac": {
+    "html": "pages/work__cadillac.html",
+    "rsc": "pages/work__cadillac.rsc"
+  },
+  "/work/david-beckham": {
+    "html": "pages/work__david-beckham.html",
+    "rsc": "pages/work__david-beckham.rsc"
+  },
+  "/work/faze-x-lyrical-lemonade": {
+    "html": "pages/work__faze-x-lyrical-lemonade.html",
+    "rsc": "pages/work__faze-x-lyrical-lemonade.rsc"
+  },
+  "/work/floyd-mayweather": {
+    "html": "pages/work__floyd-mayweather.html",
+    "rsc": "pages/work__floyd-mayweather.rsc"
+  },
+  "/work/get-moving": {
+    "html": "pages/work__get-moving.html",
+    "rsc": "pages/work__get-moving.rsc"
+  },
+  "/work/neymar-jr": {
+    "html": "pages/work__neymar-jr.html",
+    "rsc": "pages/work__neymar-jr.rsc"
+  },
+  "/work/sohub-website": {
+    "html": "pages/work__sohub-website.html",
+    "rsc": "pages/work__sohub-website.rsc"
+  },
+  "/work/tsioulka": {
+    "html": "pages/work__tsioulka.html",
+    "rsc": "pages/work__tsioulka.rsc"
+  },
+  "/work/vodafone-cash": {
+    "html": "pages/work__vodafone-cash.html",
+    "rsc": "pages/work__vodafone-cash.rsc"
+  },
+  "/work/wanderworlds": {
+    "html": "pages/work__wanderworlds.html",
+    "rsc": "pages/work__wanderworlds.rsc"
+  }
+}

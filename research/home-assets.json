@@ -1,0 +1,1954 @@
+{
+  "assets": [
+    {
+      "id": "d40a460b4a9294d1",
+      "kind": "font",
+      "name": "Ballet-s.p.02lm8p7y6z_c2.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 48,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/media/Ballet-s.p.02lm8p7y6z_c2.woff2?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "a80aa2677b811071",
+      "kind": "font",
+      "name": "HelveticaNowVar-s.p.1558zd~j14my~.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 49,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/media/HelveticaNowVar-s.p.1558zd~j14my~.woff2?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "ab08d21fc15194c2",
+      "kind": "font",
+      "name": "Novela-s.p.0~yspu6~z3x0l.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 50,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/media/Novela-s.p.0~yspu6~z3x0l.woff2?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "fa5dbca565f857e1",
+      "kind": "font",
+      "name": "SometypeMono-s.p.0o6m.9443otj..woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 51,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/media/SometypeMono-s.p.0o6m.9443otj..woff2?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "db8f87f222959886",
+      "kind": "font",
+      "name": "ppeditorialold-s.p.18amt_dae6ex_.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 52,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/media/ppeditorialold-s.p.18amt_dae6ex_.woff2?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "ea1fb66c32b88e15",
+      "kind": "image",
+      "name": "1.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 53,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 124,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/textures/angel/1.png"
+    },
+    {
+      "id": "6417ff08e446085e",
+      "kind": "image",
+      "name": "1.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 54,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 126,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/textures/angel-girl/1.png"
+    },
+    {
+      "id": "83026f11c6b804bd",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 579,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-aaacca64ff721000af6a96b197224881fb95c1eb-2560x1440-jpg-Floyd-Main.jpg&w=1920&q=75"
+    },
+    {
+      "id": "2fb76252ecb866af",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 612,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-969666cb232ae52317f60c0eec2311c653565102-1920x1080-jpg-Neymar-Image.jpg&w=1920&q=75"
+    },
+    {
+      "id": "4cba9f249af0b970",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 645,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2444,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-1522b7485f6006a98e9f0eb9d0bd55bf0fb3535d-2560x1440-jpg-Vodafone-Main.jpg&w=1920&q=75"
+    },
+    {
+      "id": "60656ceda6a9a2cf",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 679,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-047ff024e770476aa60252be81b1f0fa5911b5e2-2560x1440-jpg-FaZe-Good-Qual.jpg&w=1920&q=75"
+    },
+    {
+      "id": "b801326a119e5eae",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 712,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-6512d6bce53bae7ab5b486df87dc469c526cdb66-1522x856-webp-Cadillac-Thumbnail.webp&w=1920&q=75"
+    },
+    {
+      "id": "fdec170b717980b0",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 745,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-1258ff11308389abb9a500f15997eee587ef3966-1920x1080-jpg-SOHub-2-Mockup.jpg&w=1920&q=75"
+    },
+    {
+      "id": "99817765f16ec809",
+      "kind": "script",
+      "name": "0_5jxh8-fu~xb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 63,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2900,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0_5jxh8-fu~xb.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "ed4f7ad9b25078db",
+      "kind": "script",
+      "name": "0a073js4jrt2o.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 64,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0a073js4jrt2o.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "cc1d0609c04b0caf",
+      "kind": "script",
+      "name": "16ro-bgnb6lxf.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 65,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/16ro-bgnb6lxf.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "c2acdf2cf785e072",
+      "kind": "script",
+      "name": "0mmi4o8mmj3x0.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 66,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0mmi4o8mmj3x0.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "935a8b06ed40b8cd",
+      "kind": "script",
+      "name": "0.q~j-7_ps6pq.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 69,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0.q~j-7_ps6pq.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8edaa9cea9af2085",
+      "kind": "script",
+      "name": "turbopack-0sejd_9ukxprm.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 68,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/turbopack-0sejd_9ukxprm.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "08fabd26abde2e45",
+      "kind": "script",
+      "name": "0etihnc8t_1mz.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 67,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0etihnc8t_1mz.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "ad0bc1c66ce9b1cc",
+      "kind": "script",
+      "name": "141-y4qcheoh~.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 70,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/141-y4qcheoh~.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "e6be3f486813ea15",
+      "kind": "script",
+      "name": "133n6s~7.wlqw.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 71,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/133n6s~7.wlqw.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "802e07cca784f17c",
+      "kind": "script",
+      "name": "08-om41l.yg-h.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 72,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/08-om41l.yg-h.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "c9c5c3caed50d5e3",
+      "kind": "script",
+      "name": "04et1ujm.1ogt.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 74,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/04et1ujm.1ogt.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "e5fa3a2bead3ed4e",
+      "kind": "script",
+      "name": "0rprn20dpqx26.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 73,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0rprn20dpqx26.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "ec5d7fd7703d2a19",
+      "kind": "script",
+      "name": "04rtv_jfzwvzy.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 76,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/04rtv_jfzwvzy.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "e12fdd5f0d63fae3",
+      "kind": "script",
+      "name": "09my-y2~e1p_q.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 75,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/09my-y2~e1p_q.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "eaf170bd259e2721",
+      "kind": "script",
+      "name": "0oo84nz.jrles.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 77,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0oo84nz.jrles.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "db78bfb4ec52284d",
+      "kind": "script",
+      "name": "0xhnisy4i1o1s.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 78,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0xhnisy4i1o1s.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "22287b682ca83f2a",
+      "kind": "script",
+      "name": "0pjf9_u8~x-2..js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 79,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0pjf9_u8~x-2..js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8cba875406987ccf",
+      "kind": "script",
+      "name": "068fq8h1ymnjo.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 80,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/068fq8h1ymnjo.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "bf40060ce178b191",
+      "kind": "other",
+      "name": "sequence.ktx2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 81,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 125,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/textures/angel/sequence.ktx2"
+    },
+    {
+      "id": "80f2606d2783796b",
+      "kind": "other",
+      "name": "basis_transcoder.wasm",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 83,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/basis/basis_transcoder.wasm"
+    },
+    {
+      "id": "8a0594113e004ed0",
+      "kind": "script",
+      "name": "basis_transcoder.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 82,
+          "property": "href"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/basis/basis_transcoder.js"
+    },
+    {
+      "id": "ef1d536270273929",
+      "kind": "other",
+      "name": "sequence.ktx2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 84,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 127,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/textures/angel-girl/sequence.ktx2"
+    },
+    {
+      "id": "2c032d7fba600c47",
+      "kind": "script",
+      "name": "beacon.min.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 85,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2953,
+          "property": "src"
+        }
+      ],
+      "url": "https://static.cloudflareinsights.com/beacon.min.js"
+    },
+    {
+      "id": "c3dd22d08f8de5f1",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 209,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 239,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-a98671394cf2b4a4c41d0f49ade0921fa4921b93-1395x1395-png-Awwwards.png&w=828&q=75"
+    },
+    {
+      "id": "09f50bdbd543b778",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 269,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-b7e8fdf87207dd05e4f329a85afc09ebc7498031-1045x1045-png-Forbes.png&w=828&q=75"
+    },
+    {
+      "id": "d4b90620e8b6d467",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 299,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-1d414d0511ba265fdfa0ee9b078fe81b43cfa136-1045x1045-png-Billboard.png&w=828&q=75"
+    },
+    {
+      "id": "5777355ae5f57330",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-ad191abe34e7dfb5a9e6336472fadc8392975bf9-1045x1045-png-Your-Creative-Media.png&w=828&q=75"
+    },
+    {
+      "id": "e5972eb227ec4928",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-a0f7e1516c9b6e0c271c9a27f5cafdd9c4754b8e-1045x1045-png-Behance.png&w=828&q=75"
+    },
+    {
+      "id": "89a3598ec6ae311d",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=https%3A%2F%2Fcms.pensatori-irrazionali.com%2Fapi%2Fmedia%2Ffile%2Fimage-5cb479b75fa19f9e944431bd2e98c30fccb0e7c7-1045x1045-png-Galithin.png&w=828&q=75"
+    },
+    {
+      "id": "061e8650210c4b5d",
+      "kind": "image",
+      "name": "flags-poster-lossless.webp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5,
+          "property": "poster"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/static/images/flags-poster-lossless.webp"
+    },
+    {
+      "id": "d6a2cfe3edf22feb",
+      "kind": "video",
+      "name": "flagsOptimized.mp4",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "resource",
+          "property": "video"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/static/videos/flagsOptimized.mp4"
+    },
+    {
+      "id": "b815f0f54d45d160",
+      "kind": "other",
+      "name": "decorative-motion.vtt",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "track"
+        },
+        {
+          "kind": "resource",
+          "property": "track"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/static/captions/decorative-motion.vtt"
+    },
+    {
+      "id": "c8d35ebd7430ce90",
+      "kind": "image",
+      "name": "image-ad83afea688eb3baf1d975812f6d18b1db050daa-1920x1080-jpg-poster-file-681e3c08d31b413bd8928a1dc3ef4581e1944f54-webm-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1866,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-ad83afea688eb3baf1d975812f6d18b1db050daa-1920x1080-jpg-poster-file-681e3c08d31b413bd8928a1dc3ef4581e1944f54-webm-1280x720.jpg"
+    },
+    {
+      "id": "4cee78bc4baca63f",
+      "kind": "image",
+      "name": "image-33b75786114bee2f86055bbbd465629803448149-1920x1080-jpg-poster-file-dabdfbba49a70c95201b55ac7d8aef796cdd8b28-webm-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1872,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-33b75786114bee2f86055bbbd465629803448149-1920x1080-jpg-poster-file-dabdfbba49a70c95201b55ac7d8aef796cdd8b28-webm-1280x720.jpg"
+    },
+    {
+      "id": "530c7b8d39f216c9",
+      "kind": "image",
+      "name": "image-3a6a7a351477d724999e8c5a112e459a12c71504-1920x1080-jpg-poster-file-f78a80cb05e69fc1e2611b0fa226719cf00d5f58-mp4-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2058,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-3a6a7a351477d724999e8c5a112e459a12c71504-1920x1080-jpg-poster-file-f78a80cb05e69fc1e2611b0fa226719cf00d5f58-mp4-1280x720.jpg"
+    },
+    {
+      "id": "db85aab06f03b3d1",
+      "kind": "image",
+      "name": "image-ef876781631bce1b9ae83f9b1881220cc2321bbe-1280x720-jpg-poster-file-34621dfb9e631584644b56a9c0bc95eb631b38ae-webm-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2246,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-ef876781631bce1b9ae83f9b1881220cc2321bbe-1280x720-jpg-poster-file-34621dfb9e631584644b56a9c0bc95eb631b38ae-webm-1280x720.jpg"
+    },
+    {
+      "id": "e1b9ccb13ef0ea1e",
+      "kind": "image",
+      "name": "image-1318a76becc95927583b5f9a3b64006027956f22-1920x800-jpg-poster-file-6bc9c3b87b5fc618f2006d94af0e491b981d4b8c-webm-1280x533.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2248,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-1318a76becc95927583b5f9a3b64006027956f22-1920x800-jpg-poster-file-6bc9c3b87b5fc618f2006d94af0e491b981d4b8c-webm-1280x533.jpg"
+    },
+    {
+      "id": "39e83962428763dc",
+      "kind": "image",
+      "name": "image-f46f62bbc5df78a602d87ec076456e098984c042-1920x1080-jpg-poster-file-aba25b102a8f7e3daf4e06931275a54b1c7eac2c-mp4-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2436,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-f46f62bbc5df78a602d87ec076456e098984c042-1920x1080-jpg-poster-file-aba25b102a8f7e3daf4e06931275a54b1c7eac2c-mp4-1280x720.jpg"
+    },
+    {
+      "id": "384255fb94d60121",
+      "kind": "image",
+      "name": "image-558b64f7fc08cb22e30de24f0443513d66d21baf-1920x1080-jpg-poster-file-549e69ecd68944c4aedc67eb755b16ae738d02ef-mp4-1280x720.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2438,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-558b64f7fc08cb22e30de24f0443513d66d21baf-1920x1080-jpg-poster-file-549e69ecd68944c4aedc67eb755b16ae738d02ef-mp4-1280x720.jpg"
+    },
+    {
+      "id": "d9ffe5b12ef6a712",
+      "kind": "image",
+      "name": "image-4cf9e7ebfe7681fbcfc8a943dbfbfe77ff7da811-1920x800-jpg-poster-file-d5c836a1837145e9e7a003a8ca1cf0b25c8d5235-webm-1280x533.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2440,
+          "property": "poster"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-4cf9e7ebfe7681fbcfc8a943dbfbfe77ff7da811-1920x800-jpg-poster-file-d5c836a1837145e9e7a003a8ca1cf0b25c8d5235-webm-1280x533.jpg"
+    },
+    {
+      "id": "fe70fd85d2aa67f4",
+      "kind": "image",
+      "name": "reel-poster-lossless.webp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 2590,
+          "property": "poster"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/static/images/reel-poster-lossless.webp"
+    },
+    {
+      "id": "f02ccfc5637c043d",
+      "kind": "script",
+      "name": "02fcjus2gbnml.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 118,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/02fcjus2gbnml.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "3696c397d4041e15",
+      "kind": "script",
+      "name": "15g8q_4~dnkbu.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 119,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/15g8q_4~dnkbu.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "12ec1a0fa15fa353",
+      "kind": "script",
+      "name": "08~kpwfcf6e70.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 120,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/08~kpwfcf6e70.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "d7e92e5f5897af2a",
+      "kind": "other",
+      "name": "universe-ambient.mp3",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "audio"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/static/audio/universe-ambient.mp3"
+    },
+    {
+      "id": "20b087cdd1e688b2",
+      "kind": "video",
+      "name": "flagsCycles.mp4",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 5,
+          "property": "src"
+        }
+      ],
+      "url": "https://assets.pensatori-irrazionali.com/v1/static/videos/flagsCycles.mp4"
+    },
+    {
+      "id": "7c49f5374f12dbce",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 18,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 17,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 21,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 16,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 20,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 12,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2FangelWithSword.png&w=384&q=65&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "cdbdab2ef8d2b560",
+      "kind": "image",
+      "name": "image-47aad67f20b2fbc0e55e41b4e1bde3411aa04cb9-992x426-svg-TMT.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 10,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-47aad67f20b2fbc0e55e41b4e1bde3411aa04cb9-992x426-svg-TMT.svg"
+    },
+    {
+      "id": "0c15fa55add5465e",
+      "kind": "image",
+      "name": "image-d90cb705169233abdd02ea7cbbf336c73725ba24-411x384-svg-NJR-Logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 19,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-d90cb705169233abdd02ea7cbbf336c73725ba24-411x384-svg-NJR-Logo.svg"
+    },
+    {
+      "id": "b0c20c33e9d3cbcd",
+      "kind": "image",
+      "name": "image-6cdfc00c6b5a370e5807e16d9c1d8ef68f9d7c4b-548x546-svg-Vodafone-Logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-6cdfc00c6b5a370e5807e16d9c1d8ef68f9d7c4b-548x546-svg-Vodafone-Logo.svg"
+    },
+    {
+      "id": "6056ce084bad263e",
+      "kind": "image",
+      "name": "image-973480a745008806cdfcc042818344a6fa807650-469x311-svg-FaZe-Logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 24,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-973480a745008806cdfcc042818344a6fa807650-469x311-svg-FaZe-Logo.svg"
+    },
+    {
+      "id": "09b1906ad674e228",
+      "kind": "image",
+      "name": "image-6f8ad69c19730da67d4744f069f76983ba86e544-892x349-svg-Cadillac-Logo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-6f8ad69c19730da67d4744f069f76983ba86e544-892x349-svg-Cadillac-Logo.svg"
+    },
+    {
+      "id": "878b46174f5b7875",
+      "kind": "image",
+      "name": "image-5f166ef88f1cfaa42989172fa1953eb5b0c76242-596x504-svg-sohubLogo.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 15,
+          "property": "src"
+        }
+      ],
+      "url": "https://cms.pensatori-irrazionali.com/api/media/file/image-5f166ef88f1cfaa42989172fa1953eb5b0c76242-596x504-svg-sohubLogo.svg"
+    },
+    {
+      "id": "e51f32e18dced62b",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F0.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "de87c93aa0eaa366",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1606,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F11.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "4a7e7272be5222a7",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F1.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "c9f77983511f0273",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1611,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F12.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "4dbee7294eebe930",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F2.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "e8eef27ef3f356ed",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1616,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F13.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8256c329c2fe68fe",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F3.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "23d4168c9b3409c9",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1621,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F15.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "5ab0b6c98e9700ac",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F4.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "f1048d385678c6d5",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1626,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F16.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "da7cddd490184cb2",
+      "kind": "other",
+      "name": "https://pensatori-irrazionali.com/?_rsc=7h4NYy5eoyMcNlUN",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/?_rsc=7h4NYy5eoyMcNlUN"
+    },
+    {
+      "id": "282942ee6fdaf43f",
+      "kind": "other",
+      "name": "https://pensatori-irrazionali.com/?_rsc=yIp22O3xgPPxC28X",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/?_rsc=yIp22O3xgPPxC28X"
+    },
+    {
+      "id": "f8f533a593f39f49",
+      "kind": "other",
+      "name": "https://pensatori-irrazionali.com/?_rsc=8nTjltbQWvg6NcbE",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/?_rsc=8nTjltbQWvg6NcbE"
+    },
+    {
+      "id": "e5960b7da5ea831d",
+      "kind": "script",
+      "name": "04fl5vjix_l32.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 130,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/04fl5vjix_l32.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "5ee28446b1b238ec",
+      "kind": "script",
+      "name": "16l52_04hctxe.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 131,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/16l52_04hctxe.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "b50a977f1272590f",
+      "kind": "script",
+      "name": "0px9hk80rflp_.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 132,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/0px9hk80rflp_.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8ef0d1fe2e215f6a",
+      "kind": "script",
+      "name": "10izq-uzavk~x.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 133,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/10izq-uzavk~x.js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "22b2586f66bc7f4f",
+      "kind": "script",
+      "name": "178fhz1ka~_q..js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 134,
+          "property": "src"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/static/chunks/178fhz1ka~_q..js?dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8d78fb01145f24e6",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1609,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F23.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "b158230f65f0cd90",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1604,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F22.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "8e45a63e9b721724",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1624,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F27.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "c26be64c9b278cde",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1614,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F25.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    },
+    {
+      "id": "89509c1641380fc5",
+      "kind": "image",
+      "name": "image",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 1619,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://pensatori-irrazionali.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2F26.png&w=256&q=75&dpl=dpl_CP7eMxxTRki5vMke17ZhXm5UyQSL"
+    }
+  ],
+  "id": "384e5e28-6060-45aa-a52a-4e5cacbaede1",
+  "inlineSvgs": [
+    {
+      "id": "0f3514b1e7f451ea",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 356 266\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.1 27.0765C7.8 24.0765 13.7 23.3765 16.6 28.5765C11.9 27.5765 8.2 27.3765 4.2 30.6765L8.1 37.2765C12.8 34.0765 17.8 34.7765 20.5 39.3765C16.7 38.8765 13.2 38.8765 10.2 41.0765C13.6 46.5765 17.1 52.0765 20.5 57.5765C21 58.3765 24.5 64.4765 30.5 64.7765C31.3 64.7765 32.4 64.7765 33.6 64.2765L37.4 62.8765L33.7 67.3765L42.6 74.1765C42.6 70.9765 43.3 67.7765 43.8 65.7765C43 65.1765 39.8 62.6765 39.4 58.5765C39.3 57.3765 39.4 56.3765 39.6 55.5765C38.8 55.9765 38.1 55.9765 37.7 55.8765C35.2 55.2765 33.7 50.2765 34.7 46.2765C35.1 44.6765 35.8 43.5765 36.3 42.8765C35 42.1765 33.7 41.2765 32.5 40.4765C21.2 32.5765 32.8 21.6765 18.3 20.8765C12.2 16.7765 5.6 17.0765 0 22.6765C1 24.1765 2.1 25.6765 3.2 27.1765C3.2 27.0765 3.1 27.0765 3.1 27.0765Z\" fill=\"currentColor\"></path><path d=\"M353.3 99.2764C350 95.3764 344 94.6764 339.7 97.8764C343.7 94.0764 348.6 92.6764 354.4 93.3764C355 87.0764 353.7 81.0764 350.8 76.1764C341.3 82.1764 332.2 87.1764 321.9 90.1764C298.2 96.9764 282.7 83.5764 270.5 65.1764C286.7 73.6764 311.4 85.7764 326.6 70.6764C318.2 71.6764 310.4 70.6764 302.8 67.4764C294.6 63.9764 286.8 60.2764 278.9 56.1764C263.5 48.3764 246.7 45.0764 229.7 49.2764L206.9 54.8764C189.3 59.1764 171.6 59.0764 154.2 53.2764C154.9 59.2764 155.5 65.0764 151.6 69.6764C152.2 62.3764 152.6 55.7764 149.5 49.4764C143.9 38.5764 133 32.2764 120.6 31.7764C132.7 27.7764 142.9 35.3764 150.3 44.7764C153.1 48.2764 157.4 49.6764 161.2 47.1764C158.3 46.6764 155.8 45.3764 154.5 42.9764L150.3 34.9764C143.4 21.5764 129.1 15.2764 113.9 18.2764C122.9 12.1764 133.8 15.1764 142.4 21.5764C139.7 13.1764 132.3 7.8764 124.2 5.7764C114.9 3.4764 106.4 6.3764 98.0002 10.8764C102.5 4.6764 109.9 2.8764 116.5 2.2764C102 -4.1236 80.4002 3.6764 73.1002 16.8764C76.5002 16.3764 79.1002 15.9764 82.2002 16.3764C73.7002 19.1764 65.6002 22.5764 57.9002 27.6764L56.5002 32.3764C53.2002 34.2764 50.0002 36.0764 46.8002 38.1764C46.1002 38.5764 45.4002 39.1764 44.7002 39.6764C42.6002 41.1764 40.7002 42.8764 38.7002 44.6764C38.4002 44.9764 38.4002 45.1764 38.3002 45.1764C37.1002 46.9764 38.0002 50.0764 39.8002 51.7764L40.1002 52.0764C40.4002 51.7764 40.8002 51.3764 41.2002 51.0764C43.6002 48.9764 46.2002 47.8764 48.3002 47.1764C47.3002 47.6764 42.8002 50.3764 41.9002 54.9764C41.7002 55.7764 41.4002 57.2764 42.1002 58.9764C42.8002 60.9764 44.4002 61.9764 44.9002 62.3764C45.3002 62.1764 45.7002 61.9764 46.1002 61.7764C51.9002 59.1764 59.4002 58.3764 63.7002 63.6764C61.2002 61.5764 57.7002 60.8764 54.6002 61.6764C52.6002 62.0764 50.6002 63.0764 48.9002 64.1764C48.1002 64.6764 47.3002 65.1764 46.6002 65.7764L45.5002 73.7764C45.1002 76.9764 46.5002 80.1764 48.6002 82.5764C49.1002 83.1764 49.6002 83.6764 50.2002 84.1764C49.8002 80.7764 49.6002 77.7764 51.0002 75.0764C52.4002 80.1764 52.2002 84.9764 56.9002 86.9764C56.7002 83.3764 56.9002 80.1764 58.1002 76.9764C58.9002 79.6764 59.8002 81.8764 62.0002 83.7764C63.0002 79.6764 64.0002 76.2764 67.4002 74.1764L75.4002 69.1764C78.1002 67.4764 79.2002 64.4764 80.7002 61.3764V68.0764C88.6002 63.4764 91.8002 54.8764 89.6002 45.7764C95.0002 52.7764 92.6002 62.9764 85.4002 67.9764L74.0002 75.9764C64.5002 82.6764 62.0002 88.2764 69.4002 97.6764C76.3002 74.8764 89.1002 85.5764 95.9002 69.4764C97.3002 77.0764 87.5002 82.7764 82.5002 86.1764C76.1002 90.5764 71.5002 98.1764 73.2002 106.076C74.8002 113.576 79.4002 119.476 83.0002 126.276C75.9002 121.476 71.7002 113.976 69.1002 105.776L48.1002 131.276C44.1002 135.976 37.7002 139.576 32.4002 142.176C30.5002 143.076 28.8002 143.476 26.5002 143.576C22.3602 143.756 18.5502 140.706 13.7002 140.876C8.74017 141.046 5.36017 144.406 4.90017 144.876C2.76017 147.066 2.02017 149.466 1.40017 151.476C0.170171 155.446 0.300171 159.066 0.700171 161.676H6.50017C6.10017 156.576 7.90017 152.176 11.2002 150.576C11.9002 150.276 12.9002 149.976 14.3002 149.976C11.1002 153.576 9.10017 156.476 10.0002 161.676H17.7002C17.2002 156.076 20.4002 151.976 25.6002 151.976C23.3002 155.076 21.5002 157.976 21.9002 161.676H43.4002C44.0002 161.676 49.2002 161.776 52.9002 157.776C56.2002 154.176 55.9002 149.676 55.8002 148.976L57.9002 154.376L65.0002 149.976L63.7002 142.376L67.7002 148.376L75.0002 143.876L72.7002 136.276C74.9002 138.576 76.1002 139.976 77.9002 142.276L94.3002 132.576C83.0002 121.376 81.5002 104.576 91.9002 92.7764L99.9002 83.6764C106.3 76.2764 107.2 67.6764 105.1 57.6764C110.4 64.7764 109.7 74.2764 105.1 81.5764C99.3002 90.8764 90.0002 96.8764 88.4002 106.076C86.3002 118.376 94.9002 138.476 108.4 134.876C101.1 129.676 96.3002 122.276 97.4002 113.976C99.9002 120.276 101.9 126.276 106.8 130.276C114.8 136.876 123.1 135.676 129.8 127.576C158 130.576 175.4 119.776 196.7 103.776C203.7 98.5764 217.8 87.4764 226.6 88.9764C217.8 93.1764 209.5 97.7764 203.1 105.276C197.7 111.576 193.8 121.576 201.7 127.876C196.2 135.176 189.1 140.376 180.8 143.476C168.4 148.176 165.7 135.576 154.2 143.476C148.2 147.676 145.5 154.576 148.2 161.776H153.5C152.5 155.676 154.7 150.676 160.6 149.876C157.7 153.676 155.9 157.176 157.7 161.776H165C164.9 156.576 167 153.776 171.2 153.176C169.5 156.276 168.6 158.576 168.9 161.776H182.7C187.1 155.076 193.9 151.976 199.6 153.276C200.9 153.576 202.9 154.276 205 156.276C206.6 156.276 209.1 156.476 212 155.776C214.7 155.076 216.8 153.976 218.2 153.176L214.6 149.176C221.4 152.076 227.1 151.776 232.1 147.976C228.4 146.576 225.3 145.176 223 143.076C236.5 146.176 240.7 145.676 251.2 135.076C245.8 135.276 234 135.076 232.6 128.776C231.2 122.376 244.7 114.276 251.5 112.776C240.6 100.376 234.9 76.4764 215.2 79.8764C208.6 80.9764 202.2 83.4764 196.6 87.3764L174 103.076C168.2 107.176 154.1 116.476 146.9 114.076C152.8 112.076 158.6 109.876 164 106.076L190.8 87.3764C203.5 78.4764 221.5 70.6764 234.1 84.0764C239.3 89.5764 243.6 95.7764 247.5 102.376C263.8 129.576 294.2 127.576 320.4 115.776C320.3 123.876 318.6 131.376 314.8 138.076C313.4 140.576 310.1 143.976 305.6 144.376C303.4 144.576 301.5 143.876 300.3 143.276C299.1 142.876 297.2 142.376 294.8 142.576C289.4 142.976 286.1 146.376 285.5 146.976C284.6 147.876 281.7 151.076 281.7 155.876C281.7 160.676 282.7 160.976 283.3 161.976H288.5C287.1 156.376 289 151.976 294.2 151.076C290.8 153.776 289.8 158.076 291.8 161.976H297.6C297.6 161.576 296.8 158.576 298.8 156.076C300.6 153.776 303.1 153.576 303.5 153.576C301.4 155.676 299.7 159.076 301.2 161.976H320.3C321.3 161.976 330.5 161.676 335.4 154.876C339.1 149.776 338.6 143.376 338.5 140.776C338.4 138.876 338 137.376 337.7 136.276L341.8 141.876L345.9 134.576C345.6 129.476 342.9 126.176 340.4 121.776C343.9 123.376 345.9 126.076 348.4 129.876C350.3 126.976 352.4 122.176 351.8 118.476C350.9 113.176 346.1 110.576 341.5 108.776C345.5 106.476 349.6 108.776 353.1 112.376C353.65 111.696 355.41 109.346 355.46 105.856C355.51 102.376 353.83 99.9764 353.3 99.2864V99.2764ZM61.5002 40.3764C61.9002 39.5764 62.7002 38.3764 63.8002 37.3764C64.7002 36.5764 65.7002 35.9764 66.4002 35.5764L62.8002 32.6764C64.4002 32.6764 66.2002 32.6764 68.1002 32.8764C69.9002 33.0764 71.6002 33.3764 73.1002 33.5764C69.2002 35.8764 65.4002 38.0764 61.5002 40.3764ZM105.7 33.1764C103.9 35.6764 100.5 37.9764 96.8002 36.5764C101.6 35.5764 107.6 30.1764 104.5 24.6764C101.3 19.0764 93.0002 29.0764 88.9002 26.6764C93.1002 21.4764 103.5 18.1764 106.7 23.6764C108.5 26.6764 107.5 30.4764 105.7 33.0764V33.1764ZM109.88 120.086C109.23 119.146 107.98 117.176 106.98 114.016C106.5 112.496 105.53 109.386 105.66 105.316C105.8 100.656 107.29 97.2664 108.33 94.9464C110.63 89.8464 112.4 89.0364 115.28 84.3764C116.68 82.1164 120.32 76.2164 120.84 70.0364C121.65 60.5664 114.93 52.8564 112.11 49.9664C125.01 57.6664 127.01 74.2664 118.71 85.8664C109.61 98.5664 103.11 110.866 117.31 124.866C116.35 124.776 114.71 124.476 113.05 123.416C111.54 122.446 110.73 121.296 109.89 120.086H109.88ZM123.6 102.076C119.56 106.816 120.16 110.176 120.9 112.276C121.04 112.666 122.28 115.996 125.3 116.476C127.46 116.816 129.47 115.526 130.5 114.076C132.09 111.836 131.87 108.466 129.8 105.876C132.6 105.876 134.7 108.876 134.6 111.976C134.6 115.976 131.4 118.876 128.1 119.476C124.4 120.176 120.8 118.476 118.8 114.976C113.6 105.576 123.2 96.3764 129.2 89.7764C136.2 82.0764 139.8 72.1764 137.7 61.8764C135.6 51.8764 127.7 45.7764 118.6 41.9764C124.5 42.3264 129.88 44.8764 133.96 48.7864C139.82 54.3964 141.12 61.0564 141.6 63.7764C144.05 77.7664 135.04 88.6564 133.51 90.4364C130.21 94.3164 126.9 98.1964 123.6 102.076Z\" fill=\"currentColor\"></path><path d=\"M256.2 35.3765C266.6 31.9765 267.6 32.6765 289.3 21.4765C303.5 14.1765 322.4 4.87649 337.8 14.1765C344.8 18.3765 348.2 26.3765 345.1 34.0765C343.7 37.3765 340.5 40.0765 337.8 40.5765C334.2 41.2765 330.4 40.2765 328.1 37.7765L323.4 32.6765C318.7 27.5765 311.9 25.5765 305.6 28.6765C300.7 31.0765 298.5 36.5765 300.4 41.8765C305.1 54.8765 324.3 58.9765 337 55.2765C348.6 51.8765 355.7 41.7765 355.4 29.8765C355.1 17.5765 347.8 7.57649 336.1 3.57649C316.5 -3.22351 299.7 4.57649 282.7 13.5765C269.9 20.3765 253.4 23.8765 238.8 22.7765C235.2 22.4765 231.7 20.7765 229.6 17.6765C228.5 16.0765 227.8 14.1765 227.9 12.1765C227.9 10.2765 228.7 8.37649 230.5 7.77649C232.3 7.17649 234.3 8.07649 235.1 9.77649C235.9 11.4765 235.7 13.1765 234.7 14.5765C236.5 14.5765 238.3 13.5765 239.4 12.0765C240.6 10.4765 240.8 8.27649 240.4 6.27649C240 4.57649 239 3.07649 237.7 1.97649C236.4 0.976494 234.8 0.376494 233.1 0.176494C231.3 -0.0235058 229.5 0.176494 227.9 0.676494C224 1.87649 221.6 5.77649 220.8 10.1765C219.4 6.77649 220.8 4.17649 222.9 0.476494H214.1C210.5 5.17649 210.9 10.2765 213.1 15.8765C208.7 11.6765 208.4 5.97649 210.1 0.476494H197C194.7 6.97649 196.9 12.2765 200.1 18.4765C193.2 14.8765 191.9 7.67649 192.4 0.476494H179.1C178 7.37649 180 12.7765 183.4 18.8765C181.9 17.7765 178.9 15.2765 176.7 10.9765C174.6 6.47649 174.6 2.37649 174.8 0.476494H158.9C159.1 4.57649 159.8 10.4765 163.1 16.3765C176.7 40.9765 223 46.1765 256.2 35.4765V35.3765Z\" fill=\"currentColor\"></path><path d=\"M24.0002 218.676C20.5002 218.676 17.2002 218.276 17.2002 214.776V207.076H23.0002C33.2002 207.076 38.8002 201.976 38.8002 194.276C38.8002 186.576 33.2002 182.076 23.0002 182.076H0.900195V185.776C4.5002 185.776 6.3002 186.876 6.3002 189.676V214.776C6.3002 217.676 4.2002 218.676 0.700195 218.676V222.376H24.0002V218.676ZM17.3002 185.976H19.8002C23.6002 185.976 26.8002 188.976 26.8002 194.176C26.8002 199.376 23.6002 202.976 19.8002 202.976H17.3002V185.976Z\" fill=\"currentColor\"></path><path d=\"M77.7 210.276H74C72.7 215.476 70.2 218.376 65.5 218.376H56.9V203.476H62.5C65.4 203.476 66.4 204.976 66.4 208.076H69.9V194.976H66.5C66.5 197.776 65.5 199.576 62.6 199.576H57V186.176H64.1C69.4 186.176 71.9 187.376 72.9 192.576H76.4V182.076H40.5V185.776C44 185.776 46.1 186.876 46.1 189.676V214.776C46.1 217.676 44 218.676 40.5 218.676V222.376H76.5L77.7 210.276Z\" fill=\"currentColor\"></path><path d=\"M88.1001 190.776V214.576C88.1001 218.376 85.2001 218.676 83.4001 218.676V222.476H99.7001V218.676C97.3001 218.676 94.0001 218.376 94.0001 214.576V194.176L116.6 222.476H123.7V189.976C123.7 186.076 126.6 185.776 128.4 185.776V181.976H112.1V185.676C114.5 185.676 117.8 185.976 117.8 189.876V208.576L97.0001 181.976H82.6001V185.776C86.1001 185.776 88.1001 186.476 88.1001 190.776Z\" fill=\"currentColor\"></path><path d=\"M160.4 222.376H176.2V218.576C172.2 218.576 170.8 216.676 172.2 213.176L173.8 209.276H187.9L189.4 213.076C190.7 216.176 189.9 218.576 186.2 218.576V222.376H208.1H232.4V218.576C227.7 218.576 225.6 217.076 225.6 214.176V186.076H228.9C233.8 186.076 236.4 188.576 237.7 195.376H241.2L240 181.976H200.2L199 195.376H202.5C203.9 188.676 206.5 186.076 211.3 186.076H214.6V214.176C214.6 216.926 212.57 218.516 208.04 218.566C207.4 218.566 206.41 218.486 205.25 217.986C202.7 216.876 201.6 214.576 201.3 213.876L188.2 181.876H177.2V182.776L178.8 186.676L167.3 213.176C165.9 216.476 163.7 218.676 160.4 218.576V222.376ZM180.8 191.876L186.2 205.276H175.3L180.8 191.876Z\" fill=\"currentColor\"></path><path d=\"M266 223.276C279.3 223.276 288 214.876 288 202.076C288 189.276 279.3 180.876 266 180.876C252.7 180.876 244 189.276 244 202.076C244 214.876 252.7 223.276 266 223.276ZM266 185.276C272.4 185.276 275.6 191.176 275.6 202.176C275.6 213.176 272.4 219.076 266 219.076C259.6 219.076 256.4 213.176 256.4 202.176C256.4 191.176 259.6 185.276 266 185.276Z\" fill=\"currentColor\"></path><path d=\"M356 185.676V181.876H333.7V185.676C337.3 185.676 339.4 186.776 339.4 189.576V214.676C339.4 217.576 337.2 218.576 333.7 218.576H333.1C330 218.576 327.4 216.276 324.4 212.076L319.6 205.176C324.5 203.276 327.3 202.176 327.3 194.476C327.3 186.776 321.7 181.976 312.4 181.976H289.1V185.776C292.7 185.776 294.5 186.876 294.5 189.676V214.776C294.5 217.676 292.3 218.676 288.8 218.676V222.476H310.4V218.676C308.1 218.676 305.4 218.276 305.4 214.776V206.476H309.8L319.7 222.376H356V218.576C352.4 218.576 350.3 217.576 350.3 214.676V189.576C350.3 186.676 352.5 185.676 356 185.676ZM307.9 202.376H305.4V185.976H307.9C312.8 185.976 315.5 189.876 315.5 194.476C315.5 199.076 312.9 202.376 307.9 202.376Z\" fill=\"currentColor\"></path><path d=\"M14.5004 258.476V237.876C14.5004 235.576 16.2004 234.676 19.1004 234.676V231.576H0.900391V234.676C3.80039 234.676 5.50039 235.576 5.50039 237.876V258.476C5.50039 260.876 3.80039 261.676 0.900391 261.676V264.776H19.1004V261.676C16.2004 261.676 14.5004 260.876 14.5004 258.476Z\" fill=\"currentColor\"></path><path d=\"M155.9 261.676H146.5L165.5 234.976V231.876H136.1V241.876H138.9C140.4 236.676 143.4 234.676 147.4 234.676H155.2L135.24 261.816C134.64 261.816 133.64 261.716 132.56 261.176C130.59 260.186 129.8 258.396 129.6 257.876L118.9 231.676H109.9V232.376L111.2 235.576L101.7 257.376C100.61 260.056 98.8203 261.746 96.1603 261.776C93.6803 261.756 91.5903 259.756 89.1003 256.376L85.1003 250.776C89.1003 249.176 91.4003 248.276 91.4003 241.976C91.4003 235.676 86.8003 231.776 79.2003 231.776H60.1003V234.876C63.0003 234.876 64.5003 235.776 64.5003 238.076V258.676C64.5003 260.926 62.9903 261.766 60.4003 261.856H59.6003C57.1003 261.856 55.0003 259.776 52.5003 256.376L48.5003 250.776C52.5003 249.176 54.8003 248.276 54.8003 241.976C54.8003 235.676 50.2003 231.776 42.6003 231.776H23.5003V234.876C26.4003 234.876 27.9003 235.776 27.9003 238.076V258.676C27.9003 261.076 26.2003 261.876 23.3003 261.876V264.976H41.0003V261.876C39.1003 261.876 36.9003 261.476 36.9003 258.676V251.876H40.5003L48.7103 264.986H60.5103L77.6003 264.976V261.876C75.7003 261.876 73.5003 261.476 73.5003 258.676V251.876H77.1003L85.2003 264.876H97.0003H109.1V261.776C105.8 261.776 104.6 260.276 105.8 257.376L107.1 254.176H118.6L119.8 257.276C120.9 259.776 120.2 261.776 117.2 261.776V264.876H135.2H165.8L166.69 254.076H164C162.4 258.676 160.1 261.676 155.9 261.676ZM39.1003 248.476H37.0003V235.076H39.1003C43.1003 235.076 45.3003 238.176 45.3003 241.976C45.3003 245.776 43.2003 248.476 39.1003 248.476ZM75.6003 248.476H73.5003V235.076H75.6003C79.6003 235.076 81.8003 238.176 81.8003 241.976C81.8003 245.776 79.7003 248.476 75.6003 248.476ZM108.4 250.876L112.9 239.876L117.3 250.876H108.4Z\" fill=\"currentColor\"></path><path d=\"M166.7 253.976L166.69 254.076H166.8L166.7 253.976Z\" fill=\"currentColor\"></path><path d=\"M170.1 234.776C173 234.776 174.7 235.676 174.7 237.976V258.576C174.7 260.976 173 261.776 170.1 261.776V264.876H188.4V261.776C185.5 261.776 183.8 260.976 183.8 258.576V237.976C183.8 235.676 185.5 234.776 188.4 234.776V231.676H170.1V234.776Z\" fill=\"currentColor\"></path><path d=\"M208.2 230.976C197.2 230.976 190.1 237.876 190.1 248.376C190.1 258.876 197.2 265.776 208.2 265.776C219.2 265.776 226.3 258.876 226.3 248.376C226.3 237.876 219.1 230.976 208.2 230.976ZM208.2 262.176C202.9 262.176 200.3 257.476 200.3 248.376C200.3 239.276 202.9 234.476 208.2 234.476C213.5 234.476 216.1 239.376 216.1 248.376C216.1 257.376 213.4 262.176 208.2 262.176Z\" fill=\"currentColor\"></path><path d=\"M252.3 234.776C254.3 234.776 257 234.976 257 238.176V253.476L239.9 231.676H228.1V234.776C230.9 234.776 232.6 235.376 232.6 238.876V258.376C232.6 261.576 230.2 261.776 228.7 261.776V264.876H242.1V261.776C240.1 261.776 237.4 261.476 237.4 258.376V241.676L255.9 264.876H261.7V238.276C261.7 235.076 264.1 234.876 265.6 234.876V231.776H252.3V234.776Z\" fill=\"currentColor\"></path><path d=\"M323.7 261.476H318V237.976C318 235.076 320.7 234.776 323.6 234.776V231.676H304.6V234.776C307.5 234.776 309 235.676 309 237.976V258.576C309 260.946 307.53 261.756 304.7 261.776C304.1 261.776 303.17 261.676 302.16 261.176C300.18 260.196 299.4 258.376 299.2 257.876L288.5 231.676H279.5V232.376L280.8 235.576L271.3 257.376C270.2 260.076 268.4 261.776 265.7 261.776V264.876H278.7V261.776C275.4 261.776 274.2 260.276 275.4 257.376L276.7 254.176H288.2L289.4 257.276C290.5 259.776 289.8 261.776 286.8 261.776V264.876H304.8L332.6 264.776L333.6 253.576H330.8C329.6 258.376 327.5 261.476 323.7 261.476ZM278 250.876L282.5 239.876L286.9 250.876H278Z\" fill=\"currentColor\"></path><path d=\"M337.6 234.776C340.5 234.776 342.2 235.676 342.2 237.976V258.576C342.2 260.976 340.5 261.776 337.6 261.776V264.876H355.9V261.776C353 261.776 351.3 260.976 351.3 258.576V237.976C351.3 235.676 353 234.776 355.9 234.776V231.676H337.6V234.776Z\" fill=\"currentColor\"></path><path d=\"M160.88 210.536C160.88 195.706 141.17 197.686 141.17 189.716C141.17 186.916 143.32 184.886 146.4 184.886C151.23 184.886 154.14 188.086 154.84 194.076H158.33V183.436C154.72 181.526 150.24 180.536 146 180.536C138.39 180.536 130.94 183.676 130.94 192.046C130.94 205.766 150.36 204.146 150.36 212.516C150.36 215.606 148.32 218.976 143.03 218.976C137.74 218.976 134.49 214.856 134.37 208.746H130.88V219.966C134.14 222.226 138.68 223.336 143.21 223.336C151.76 223.336 160.88 219.496 160.88 210.536Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-1"
+    },
+    {
+      "id": "35f54f4474db1262",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 292 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M97.2033 0H0V19.7034H97.2033V0Z\" fill=\"#009246\"></path><path d=\"M194.399 0H97.1953V19.7034H194.399V0Z\" fill=\"white\"></path><path d=\"M291.617 0H194.414V19.7034H291.617V0Z\" fill=\"#CE2B37\"></path></svg>",
+      "name": "svg-2"
+    },
+    {
+      "id": "3430fa6b48f0dbfb",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 19 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 1L17 7.99998L10 15M0 7.99998L16.5 8\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-3"
+    },
+    {
+      "id": "af99dcb689621856",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 19 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 1L17 7.99998L10 15M0 7.99998L16.5 8\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-4"
+    },
+    {
+      "id": "8f7cb4dacf4a9ca2",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 19 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 1L17 7.99998L10 15M0 7.99998L16.5 8\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-5"
+    },
+    {
+      "id": "d9fe92609fc91096",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 19 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 1L17 7.99998L10 15M0 7.99998L16.5 8\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-6"
+    },
+    {
+      "id": "9a9391c2d8dd5139",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.59425 0.701172L12.7529 5.85984L7.59425 11.0185M0.224708 5.85984L12.3845 5.85985\" stroke=\"currentColor\" stroke-width=\"1.47391\"></path></svg>",
+      "name": "svg-7"
+    },
+    {
+      "id": "1f1aa50ed7144c20",
+      "markup": "<svg width=\"35%\" viewBox=\"0 0 25 20\" fill=\"none\" class=\"transition-transform ease-out duration-150 nav-arrow rotate-180\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.4706 19L2 10L11.4706 1M25 10L2.67647 10\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-8"
+    },
+    {
+      "id": "bb30903762552e40",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-9"
+    },
+    {
+      "id": "e577ec8be52bf8b2",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-10"
+    },
+    {
+      "id": "3d341bb4962fcee7",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-11"
+    },
+    {
+      "id": "916b4acf17738ac2",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-12"
+    },
+    {
+      "id": "36d7b6abe61326d3",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-13"
+    },
+    {
+      "id": "06d88a60211ad38b",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-14"
+    },
+    {
+      "id": "52863dcc8ff99318",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-15"
+    },
+    {
+      "id": "343254b7bd4e7bf9",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5 title-and-desc-elem opacity-0 translate-x-4 blur motion-reduce:opacity-100 motion-reduce:translate-x-0 motion-reduce:blur-none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none; filter: blur(0px); opacity: 1;\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-16"
+    },
+    {
+      "id": "4739ae7e1ec6b514",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-17"
+    },
+    {
+      "id": "14466ed83d8e2a96",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-18"
+    },
+    {
+      "id": "8f56f358d897e233",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-19"
+    },
+    {
+      "id": "2daf2699c44be373",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-20"
+    },
+    {
+      "id": "721d53acf04c0083",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-21"
+    },
+    {
+      "id": "465cae608bbb8813",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-22"
+    },
+    {
+      "id": "70e53a0d6185ca75",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-23"
+    },
+    {
+      "id": "339a446ea79024a3",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-24"
+    },
+    {
+      "id": "4dd8118c26cedef9",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-25"
+    },
+    {
+      "id": "e04d9ae776d1e130",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-26"
+    },
+    {
+      "id": "39d88d25b73596e0",
+      "markup": "<svg width=\"100%\" class=\"group-hover:translate-x-[120%] transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-27"
+    },
+    {
+      "id": "e4be4ba24e0c3cdf",
+      "markup": "<svg width=\"100%\" class=\"absolute -translate-x-[120%] group-hover:translate-x-0 transition-transform duration-0 group-hover:duration-200 ease-out\" viewBox=\"0 0 18 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 13L17 7L11 0.999999\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 7L1 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-28"
+    },
+    {
+      "id": "41c1ea3edfcce146",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5 title-and-desc-elem opacity-0 translate-x-4 blur motion-reduce:opacity-100 motion-reduce:translate-x-0 motion-reduce:blur-none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"transform: translate(1rem, 0px); translate: none; rotate: none; scale: none; filter: blur(8px); opacity: 0;\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-29"
+    },
+    {
+      "id": "fda9b08d4d8bcd75",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 443 690\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g><path d=\"M-186.082 295.229L-194.071 293.365L-155.93 235.352L-98.7571 146.165L-97.6694 144.511L-52.0143 71.7147L-38.5068 50.9585L-27.819 57.7821L-10.1494 68.9232L-6.81228 71.1487L0.325463 75.6027L3.86238 77.8081L24.8478 91.1603L25.7953 90.218L52.5715 106.803L63.5891 112.267L65.5925 113.435L88.7932 126.082L92.9277 128.505L95.3447 130.76L107.989 143.779L117.887 154.662L132.732 171.219L142.288 183.298L146.017 186.596L143.391 190.066L142.032 191.847L140.941 193.965L144.388 195.799L145.382 196.44L143.433 200.057L145.097 202.921L147.79 207.567L149.65 208.948L151.009 207.167L154.418 209.286L157.482 208.657L145.204 227.824L132.712 247.032L140.776 252.733L141.412 253.629L142.354 254.576L142.524 256.895L144.332 258.583L145.306 261.135L143.769 263.913L145.67 265.509L144.501 268.66L143.931 269.733L144.726 271.357L145.008 271.859L144.345 272.838L144.913 274.34L146.111 278.626L148.56 281.523L152.003 283.821L151.497 285.993L152.131 288.315L154.593 292.338L155.46 293.856L156.561 295.717L157.87 297.224L161.553 297.79L162.389 298.665L162.916 305.322L162.156 304.839L161.785 303.782L161.839 303.197L161.856 302.712L161.591 302.875L160.468 303.388L159.933 303.491L158.775 303.826L157.105 304L155.306 304.367L154.684 304.598L154.646 304.883L154.859 305.027L155.784 305.311L156.214 305.136L156.515 304.874L157.193 304.835L157.55 304.766L157.763 304.91L157.618 305.123L157.437 305.621L157.632 306.25L158.286 306.661L158.627 306.892L159.519 306.719L159.963 306.522L161.621 305.906L162.099 305.887L162.419 306.103L162.275 306.316L162.01 306.479L160.887 306.992L159.657 307.433L158.785 307.805L156.896 308.763L155.238 310.342L153.933 311.353L150.954 314.429L150.098 315.464L149.436 316.444L149.526 316.816L149.149 317.833L148.826 318.08L148.383 318.277L147.988 318.631L147.525 319.591L147.433 320.646L147.502 321.003L148.694 320.846L151.17 319.479L155.455 320.762L153.042 324.376L152.832 323.769L153.725 322.448L153.177 321.147L152.36 320.749L151.735 321.444L150.989 320.94L150.062 322.082L151.589 323.083L151.142 323.744L149.829 322.886L149.895 324.67L151.459 324.423L152.17 324.749L149.817 325.703L148.718 324.805L148.562 323.613L148.438 322.877L148.548 322.486L148.122 322.198L147.857 322.36L146.834 323.872L144.597 323.508L144.101 321.9L144.426 320.227L143.928 320.045L143.476 322.595L142.978 322.413L143.43 319.863L142.932 319.682L142.532 323.074L141.133 327.529L141.022 329.347L140.06 329.162L139.863 328.718L139.581 328.217L139.478 327.682L139.268 327.074L138.979 326.538L138.68 326.521L138.57 326.913L138.661 327.284L139.241 328.95L140.429 331.646L139.305 331.197L138.842 332.156L139.784 332.141L140.708 332.611L141.486 334.719L140.668 334.322L139.923 333.818L139.547 333.409L139.406 333.158L139.141 333.321L139.104 333.606L139.761 334.516L140.153 334.625L140.4 334.948L140.363 335.233L139.862 335.515L139.456 335.426L138.889 334.888L137.451 333.295L137.002 334.419L136.291 334.093L135.848 334.29L136.288 334.557L137.055 335.075L137.553 335.257L138.37 335.655L138.704 335.849L138.921 336.493L139.062 336.743L138.952 337.135L138.702 337.276L138.543 337.51L138.434 337.901L138.29 338.114L138.287 338.578L138.606 338.794L138.716 338.402L139.004 337.976L139.269 337.814L139.629 337.282L139.681 336.975L140.041 336.443L140.363 336.195L140.591 336.318L140.982 336.428L141.086 336.963L141.353 337.486L141.687 337.68L141.972 337.718L142.382 338.305L142.983 339.022L143.516 339.382L144.142 339.65L145.152 339.992L146.327 340.321L147.375 340.378L148.23 340.49L148.798 340.843L148.533 341.006L148.282 341.147L147.784 340.965L147.393 340.856L146.822 340.966L146.805 341.265L147.303 341.447L148.245 341.432L148.743 341.613L149.062 341.829L149.454 341.939L149.629 342.368L149.272 342.437L148.774 342.255L148.262 342.095L147.836 341.807L147.479 341.876L147.266 341.732L146.822 341.929L146.678 342.142L146.854 342.571L147.651 342.768L148.077 343.056L148.168 343.428L148.15 343.913L148.219 344.27L148.539 344.486L149.621 344.721L149.783 344.986L149.959 345.415L150.226 345.937L150.295 346.294L150.186 346.686L149.883 347.133L149.76 347.361L149.438 347.608L149.204 347.45L148.706 347.268L148.084 347.499L147.871 347.355L147.534 347.624L147.283 347.765L146.945 348.312L146.107 348.863L145.591 349.166L145.162 349.341L144.719 349.538L144.396 349.786L144.393 350.249L144.235 350.483L143.984 350.624L143.27 350.762L143.04 351.103L142.432 351.313L142.095 351.582L141.257 352.133L140.262 352.732L139.28 353.496L137.906 354.15L137.463 354.347L136.872 355.22L136.443 355.396L135.98 355.393L135.468 355.232L134.826 355.264L134.169 355.317L133.919 355.458L133.349 355.383L132.833 355.686L132.476 355.755L132.174 356.202L132.136 356.487L131.92 356.807L131.883 357.092L131.724 357.326L131.351 357.694L131.241 358.086L131.402 358.536L131.258 358.749L130.726 358.389L129.997 358.548L129.603 358.902L129.3 359.349L129.119 359.847L129.188 360.205L129.085 360.632L129.048 360.917L128.938 361.308L128.794 361.521L128.811 362.185L128.702 362.576L128.699 363.04L128.489 363.395L128.06 363.57L127.723 363.839L127.081 363.87L126.831 364.011L126.494 364.28L126.099 364.634L126.062 364.919L125.831 365.26L125.261 365.185L124.516 364.681L124.004 364.521L123.663 364.29L123.378 364.253L122.739 363.821L122.347 363.711L121.869 363.729L121.406 363.726L120.801 363.473L120.516 363.435L120.161 363.226L119.698 363.223L119.575 363.45L119.324 363.591L118.881 363.788L118.468 363.664L117.792 363.517L117.651 363.267L117.688 362.982L117.475 362.837L117.19 362.8L116.64 362.925L116.39 363.066L115.874 363.369L115.589 363.331L115.342 363.009L115.129 362.865L115.076 362.208L114.702 361.614L114.314 361.041L114.013 360.062L114.14 359.186L114.146 358.259L114.146 357.296L113.973 356.403L113.726 356.081L113.334 355.971L112.78 355.597L112.818 355.312L112.642 354.883L112.947 353.009L112.778 351.653L112.083 351.028L111.09 350.202L109.65 349.073L107.876 347.749L107.271 347.495L105.481 346.471L103.594 346.002L102.843 346.425L102.33 346.265L102.454 345.852L102.048 345.764L101.688 346.296L101.334 345.902L100.715 345.669L97.8325 344.837L96.18 344.527L94.5783 344.096L91.4865 343.619L87.8408 342.768L83.0032 342.073L78.4161 341.237L74.5544 340.705L71.7101 340.551L69.5941 340.238L69.1162 340.256L65.43 340.153L64.6326 339.955L63.671 339.771L62.1077 340.017L60.2179 340.012L58.6689 340.237L56.999 340.412L54.595 340.524L52.9426 340.214L51.2007 340.495L49.5077 340.933L47.5873 341.248L46.7311 341.321L45.2886 341.618L44.7024 341.843L42.157 342.853L41.6559 343.135L40.052 344.13L39.286 344.574L38.376 345.231L37.5725 345.961L36.8968 346.776L36.6289 347.402L35.6783 348.808L35.0908 349.218L34.6111 349.514L34.0581 350.102L33.6116 350.762L33.2716 351.495L32.9461 352.206L32.9298 352.505L32.6964 353.309L32.0714 354.004L30.9117 355.765L29.8747 357.299L29.7651 357.69L29.7459 358.453L29.5844 359.151L29.0659 359.918L28.3689 360.719L27.8372 361.322L27.2986 361.889L26.7457 362.477L26.3337 363.316L26.087 363.956L25.2805 365.149L24.8859 365.503L24.3674 366.269L23.6542 367.37L22.8332 368.584L22.0642 369.492L21.423 370.486L20.9765 371.146L20.723 371.751L20.7238 372.714L20.8992 373.143L21.4287 373.966L21.2847 374.179L21.4256 374.43L21.1445 374.891L20.485 375.408L19.8399 375.903L19.359 376.384L19.163 376.904L18.7654 377.721L18.7318 378.505L18.4782 379.11L18.1382 379.842L17.7637 380.396L16.9095 381.246L15.9245 382.473L14.2838 384.716L13.7998 385.661L13.3716 386.8L12.6166 388.834L12.7758 389.563L12.8072 390.205L12.5393 390.831L12.3271 391.649L11.7335 392.986L10.9828 394.372L10.5333 395.495L10.4063 396.372L10.459 397.028L10.617 397.942L10.8645 398.265L11.2874 399.016L11.8037 399.676L12.0857 400.177L12.1891 400.712L12.2275 401.39L12.0285 402.373L11.8844 402.586L12.0599 403.015L12.5924 403.375L12.6106 403.853L12.4666 404.066L11.8447 404.297L10.9032 404.312L9.79768 404.341L8.37143 404.338L6.66403 404.798L4.97103 405.236L3.2261 405.98L1.64649 406.526L-0.118524 407.071L-1.29344 407.891L-2.04501 408.313L-2.59799 408.902L-2.97245 409.456L-3.63193 409.972L-4.22122 410.66L-4.88069 411.176L-6.29214 413.263L-7.21836 414.22L-8.20341 415.447L-9.16534 416.411L-10.5206 417.543L-11.2695 418.65L-11.6641 419.004L-12.145 419.486L-12.5021 419.555L-13.0175 419.858L-13.6758 420.189L-14.3007 420.884L-14.4622 421.582L-14.6438 422.08L-14.6988 422.85L-15.0375 423.396L-15.5905 423.985L-16.5005 424.642L-22.8185 419.159L-24.3331 395.694L-24.3646 395.052L-24.4719 394.018L-24.4514 393.069L-25.4816 374.029L-20.2829 366.433L-19.6924 365.559L-17.8326 362.534L-17.6022 362.193L-15.5984 358.954L-14.9359 357.974L-10.0453 350.604L-27.0861 339.268L-22.6389 332.094L-28.7462 328.182L-32.352 325.619L-35.1934 325.002L-97.4715 313.09L-105.598 311.475L-109.879 310.691L-119.623 308.944L-120.763 308.793L-128.958 306.821L-132.263 306.201L-148.281 303.129L-155.231 301.657L-157.988 301.097L-160.032 300.677L-185.306 295.412L-186.082 295.229Z\" fill=\"#434343\"></path><path d=\"M210.73 441.17L209.414 441.739L207.652 441.82L205.947 440.853L205.733 439.746L205.172 438.281L203.55 437.649L202.686 435.668L202.954 435.043L202.995 434.294L202.212 434.075L200.572 433.929L198.157 433.599L195.597 432.52L192.896 431.19L190.99 431.484L189.737 433.337L187.744 433.759L187.076 431.259L186.435 432.253L186.515 434.2L186.21 436.074L185.3 436.731L183.979 438.042L182.66 439.074L181.497 440.336L179.942 443.599L179.641 443.861L177.27 444.337L175.846 445.112L174.55 443.77L172.98 444.944L168.425 445.713L164.687 445.916L163.107 445.499L163.643 444.248L165.517 442.349L166.392 441.513L167.016 439.856L168.43 438.453L169.408 437.19L169.82 436.351L171.378 433.773L171.807 432.449L173.359 431.76L174.692 431.855L175.654 432.039L176.832 430.756L177.361 431.58L180.232 429.859L181.462 429.417L183.629 429.425L185.388 429.807L186.157 428.899L186.517 427.404L186.578 425.707L187.184 424.534L188.824 424.681L189.73 423.524L190.922 423.368L193.562 421.988L194.544 421.224L196.983 420.142L198.002 418.13L199.131 416.69L203.478 413.887L205.388 411.982L206.686 411.897L208.894 411.156L210.054 409.395L210.558 408.65L211.373 409.511L212.985 411.532L219.997 411.307L226.585 409.368L230.674 410.023L234.077 408.661L236.782 409.528L239.591 409.503L242.308 411.775L241.521 413.167L242.783 414.331L242.262 415.561L242.115 417.201L240.402 418.587L236.824 420.482L234.827 420.405L233.351 421.486L232.51 422.5L230.221 425.701L228.188 426.872L226.899 429.973L225.667 431.84L224.786 434.566L222.986 436.08L221.467 438.373L220.485 440.1L219.005 440.682L217.37 441.035L215.515 441.208L213.894 441.54L212.279 440.944L210.73 441.17Z\" fill=\"#434343\"></path><path d=\"M321.699 520.889L320.031 519.637L317.84 519.894L315.594 520.92L311.931 520.554L309.138 520.279L308.493 521.737L304.738 521.277L300.958 519.248L297.415 517.97L294.677 517.888L292.543 518.059L290.493 518.566L288.483 518.51L286.511 517.984L284.273 516.657L282.277 516.58L279.253 515.497L277.336 515.349L276.178 515.684L274.842 516.053L273.539 518.027L272.665 517.436L271.225 516.307L269.541 515.355L269.9 513.86L270.975 512.041L272.449 512.386L273.131 510.643L272.957 508.788L274.721 508.522L275.4 508.205L276.201 507.939L277.286 507.711L277.726 509.126L279.843 509.254L282.135 509.996L282.725 509.123L284.49 508.579L286.126 509.188L289.985 510.184L292.159 509.264L294.753 509.559L297.675 508.679L302.352 508.924L306.217 508.992L308.923 508.432L312.286 507.82L314.906 506.24L317.221 505.57L318.949 505.311L320.746 505.222L322.975 504.681L325.984 503.674L331.555 502.32L335.278 501.175L339.658 499.977L344.291 499.137L347.675 497.576L352.175 497.577L354.349 496.657L355.006 497.567L353.937 498.459L352.639 498.543L351.441 499.626L350.851 501.462L349.374 501.581L347.891 502.627L347.157 504.676L347.491 506.019L347.273 507.764L349.228 508.59L348.563 510.033L348.062 511.278L348.691 515.49L345.117 514.532L343.588 514.957L342.641 515.899L341.164 516.018L340.893 517.107L339.701 517.263L336.709 517.786L335.178 518.674L332.968 518.453L331.275 518.891L329.419 521.453L328.054 520.717L326.678 521.835L324.279 521.206L321.699 520.889Z\" fill=\"#434343\"></path></g></svg>",
+      "name": "svg-30"
+    },
+    {
+      "id": "41a0917d8e087bb6",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 344 434\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M62.3045 237.342L63.0431 253.806L57.99 255.415L68.2089 261.702L66.3286 264.951L72.6209 272.223L63.8818 274.742L66.8799 277.497L69.0369 283.436L64.3458 287.846L73.3169 291.88L73.4509 299.788L76.8646 301.35L78.2336 306.48L83.7696 310.548L87.5156 323.137L82.0576 325.141L81.8526 334.483L86.6566 339.578L91.2076 339.719L97.5336 350.426L95.0636 355.983L96.8156 362.316L107.721 359.107L113.596 361.742L131.293 358.224L143.284 363.415L148.972 362.134L160.46 369.076L173.664 373.086L186.376 378.047L193.365 375.026L202.27 378.02L220.93 404.146L233.478 409.424L253.759 409.854L259.438 415.202L255.864 425.617L266.215 433.982L281.571 426.44L289.388 415.203L298.161 416.118L302.326 409.225L325.175 402.742L366.866 414.639L384.425 391.553L378.976 386.928L371.519 395.134L361.977 385.982L357.687 378.337L344.338 367.217L351.512 362.281L344.563 356.279L327.786 362.684L323.273 377.639L314.773 374.251L310.706 379.786L303.21 372.897L309.206 369.579L305.468 361.962L299.836 360.758L301.815 356.38L290.564 344.596L287.904 345.069L288.482 339.824L284.052 324.742L285.459 320.921L275.624 287.695L275.502 271.43L282.811 269.664L280.163 260.762L276.38 260.655L277.041 249.199L279.315 248.1L278.3 243.738L282.568 237.132L286.443 238.708L282.268 242.661L285.79 249.599L289.075 244.617L292.216 246.24L289.549 251.4L293.356 253.935L306.15 234.678L299.911 219.799L301.689 217.734L309.657 221.566L306.65 226.836L309.523 235.854L312.834 237.423L299.8 257.691L304.674 260.638L316.131 244.243L313.57 241.499L315.642 238.59L319.394 240.954L327.828 226.836L331.201 228.01L356.644 217.281L357.798 219.725L364.897 216.714L364.783 221.061L371.119 224.477L380.647 221.441L383.752 230.01L398.858 232.133L409.669 226.065L419.782 213.098L419.645 197.961L411.686 176.507L409.116 170.203L408.425 162.741L428.943 149.832L435.121 126.793L427.497 113.185L414.965 108.556L410.307 102.168L401.542 98.7755L396.17 86.6185L395.717 74.0185L388.529 66.7505L381.938 65.4765L370.511 58.4344L358.254 41.7238L359.728 32.8205L369.208 24.9277L369.005 18.9952L358.57 18.0088L352.199 25.6607L342.608 24.968L340.478 15.3389L343.369 10.2948L341.062 5.4072L336.947 4.844L332.686 6.7638L329.926 10.4542L321.465 13.8992L319.348 20.196L306.181 15.7336L302.466 12.8088L295.115 13.0302L290.436 19.5567L287.704 26.7881L275.812 23.1552L272.987 13.4536L274.106 7.3987L273 3.5104L270.291 0L265.438 10.5575L251.133 15.5017L244.708 22.9835L225.867 25.6122L211.717 15.3144L204.346 17.475L203.536 23.168L191.272 32.3226L192.666 37.8757L207.078 45.4662L208.828 49.7816L205.252 63.8525L199.003 66.5925L197.505 73.0675L190.545 78.2825L188.153 71.3615L185.762 68.5625L181.09 67.4265L173.373 74.3825L166.711 69.9455L150.779 74.6465L127.101 67.3835L115.3 75.6405L110.026 77.3215L96.9616 78.6715L84.0776 83.5255L80.0416 89.6845L71.1402 92.3325L72.4877 97.1505L71.9938 100.306L65.7766 104.911L67.5653 110.526L63.4517 114.086L61.9548 124.683L64.4948 133.245L64.8154 143.074L58.4808 143.78L55.3159 139.729L53.1431 141.733L38.0076 145.992L35.4163 145.507L38.214 138.992L31.0589 137.711L29.3876 135.995L21.0504 138.651L17.3341 150.517L10.2828 158.385L6.3935 162.061L7.5242 166.198L6.821 168.109L0 171.406L7.3824 181.049L11.9778 183.708L12.8993 186.602L11.0713 190.276L11.9114 192.914L14.7165 196.423L15.9955 204.263L19.8628 206.866L18.5307 213.917L20.9251 226.009L32.8976 226.568L39.3965 230.329L62.3045 237.342Z\" fill=\"#434343\"></path><path d=\"M278.445 279.488L283.364 300.223L290.448 298.341L283.658 278.202L278.445 279.488Z\" fill=\"#434343\"></path><path d=\"M302.264 267.776L300.648 270.353L306.072 274.435L297.188 284.199L299.078 290.719L303.727 293.548L305.458 290.748L329.815 310.726L333.19 298.968L309.833 280.358L313.065 275.206L302.264 267.776Z\" fill=\"#434343\"></path><path d=\"M310.062 360.499L312.448 367.986L321.452 370.365L327.587 354.916L310.062 360.499Z\" fill=\"#434343\"></path><path d=\"M284.805 303.887L291.953 300.947L297.735 304.539L299.444 311.15L323.253 331.395L317.258 343.774L321.147 345.583L327.34 336.321L339.572 341.436L337.813 347.563L306.132 357.522L296.518 344.815L294.209 341.31L292.95 336.94L291.183 337.636L287.673 325.369L289.58 320.124L284.805 303.887Z\" fill=\"#434343\"></path><path d=\"M317.438 279.527L333.507 292.025L335.404 285.33L321.006 274.549L317.438 279.527Z\" fill=\"#434343\"></path><path d=\"M307.364 262.028L305.203 265.247L317.447 274.559L321.773 269.901L322.423 269.882L333.602 278.502L336.539 272.131L330.004 262.5L325.994 262.559L323.919 257.223L327.55 255.973L329.175 259.016L337.326 255.482L326.754 235.236L321.284 243.069L322.721 249.639L311.646 264.881L307.364 262.028Z\" fill=\"#434343\"></path><path d=\"M339.731 227.447L328.758 233.005L331.424 238.434L334.426 239.914L336.71 246.495L364.098 233.928L368.825 247.884L355.222 253.717L356.194 257.062L376.452 247.703L370.736 227.409L360.095 222.834L351.349 226.558L350.122 223.294L345.783 224.676L348.381 233.125L343.211 235.428L339.731 227.447Z\" fill=\"#434343\"></path><path d=\"M339.907 303.293L338.805 313.952L343.013 315.985L362.337 289.87L351.833 287.781L339.907 303.293Z\" fill=\"#434343\"></path><path d=\"M366.041 291.782L354.344 307.128L356.917 309.026L354.276 312.21L351.112 310.219L343.219 321.917L355.101 326.566L364.224 315.788L367.358 317.976L378.471 301.972L366.041 291.782Z\" fill=\"#434343\"></path></svg>",
+      "name": "svg-31"
+    },
+    {
+      "id": "d3b3664a7261dc6a",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-32"
+    },
+    {
+      "id": "1cffa99b88500ac5",
+      "markup": "<svg height=\"100%\" viewBox=\"0 0 175 176\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M53.6786 95.9645V99.6241C65.2164 91.2611 76.282 82.898 86.8752 74.5349C99.709 64.3337 111.391 54.9551 121.921 46.3992C128.261 41.0502 133.945 36.2378 138.972 31.9622C127.218 45.6026 116.762 57.6545 107.607 68.118C93.7857 83.5844 81.9391 96.5828 72.0669 107.113C62.1947 117.643 53.4743 126.693 45.9056 134.262C38.337 141.83 30.9328 148.905 23.6932 155.487C16.7827 161.739 8.88496 168.485 0 175.725H27.6421L174.738 0H168.321L157.955 9.87217C157.866 9.97602 157.777 10.0799 157.688 10.1836C155.874 12.247 151.686 16.0921 145.121 21.7188C138.54 27.6421 130.148 34.8817 119.947 43.4376C109.746 51.9935 98.3927 61.2075 85.8879 71.0797C75.5101 79.4941 64.7736 87.7891 53.6786 95.9645Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-33"
+    },
+    {
+      "id": "ca75e2dc839a7c55",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-34"
+    },
+    {
+      "id": "304babc843a6032f",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-35"
+    },
+    {
+      "id": "c2c1c49bc0207ede",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-36"
+    },
+    {
+      "id": "ff7e9232e931a880",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M-1.15007e-07 2.63065C-2.30293e-07 2.55588 0.0296999 2.48418 0.0825665 2.43132L2.43174 0.0821332C2.54183 -0.0279561 2.72032 -0.0279566 2.83041 0.0821327C2.9405 0.192222 2.9405 0.370711 2.83041 0.480801L0.962469 2.34875L6.48372 2.34875C6.63941 2.34875 6.76562 2.47496 6.76562 2.63065C6.76562 2.78634 6.63941 2.91255 6.48372 2.91255L0.962472 2.91255L2.83041 4.78048C2.9405 4.89057 2.9405 5.06906 2.83041 5.17915C2.72032 5.28924 2.54183 5.28924 2.43174 5.17915L0.0825671 2.82998C0.0297003 2.77712 2.78117e-10 2.70541 -1.15007e-07 2.63065Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-37"
+    },
+    {
+      "id": "4bf51c6700b06705",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-38"
+    },
+    {
+      "id": "45d7ba26644dc48b",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-39"
+    },
+    {
+      "id": "b3ef5ff07adf47c8",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-40"
+    },
+    {
+      "id": "2b6854799c08719c",
+      "markup": "<svg height=\"100%\" viewBox=\"0 0 220 182\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M199.418 30.1101C199.418 41.6277 195.469 52.3225 187.571 62.1947C180.003 71.7378 169.801 80.7873 156.968 89.3432C144.134 97.57 130.148 105.468 115.011 113.036C99.8735 120.276 84.9007 127.351 70.0925 134.262C55.2842 141.172 41.7922 148.083 29.6165 154.993C17.7699 161.904 8.55589 169.143 1.97444 176.712V175.725C4.27794 173.092 6.58145 171.118 8.88496 169.801C11.1885 168.156 14.4792 167.333 18.7571 167.333C25.0095 167.333 31.591 168.321 38.5015 170.295C45.7411 172.269 52.9807 174.244 60.2203 176.218C67.4599 177.864 74.0413 178.686 79.9646 178.686C88.8496 178.686 96.9119 176.877 104.151 173.257C111.72 169.308 119.618 162.397 127.845 152.525L129.326 154.5C122.744 164.701 115.175 171.776 106.62 175.725C98.0636 179.674 89.0141 181.648 79.471 181.648C73.5477 181.648 66.9663 180.825 59.7267 179.18C52.4871 177.206 45.2475 175.231 38.0079 173.257C31.0974 171.282 24.5159 170.295 18.2635 170.295C12.9984 170.295 9.21403 171.282 6.91052 173.257C4.27794 174.902 1.97444 177.041 0 179.674V176.712C4.60702 170.46 12.3402 163.714 23.1996 156.474C34.059 149.234 46.5638 141.666 60.7139 133.768C74.864 125.541 89.3432 116.985 104.151 108.1C118.96 99.2154 132.616 90.0014 145.121 80.4583C157.626 70.5861 167.827 60.5494 175.725 50.3481C183.622 40.1469 187.571 29.7811 187.571 19.2507C187.571 8.39136 181.154 2.96166 168.321 2.96166C160.423 2.96166 152.032 5.4297 143.147 10.3658C134.591 14.9728 125.87 21.5543 116.985 30.1101C108.429 38.337 100.532 47.8801 93.2921 58.7395C86.3816 69.2698 80.7873 80.2937 76.5094 91.8113H73.5477C77.4966 79.9646 83.0908 68.6116 90.3304 57.7522C97.57 46.5638 105.632 36.6916 114.517 28.1357C123.402 19.2507 132.452 12.3402 141.666 7.40414C151.209 2.46805 160.094 0 168.321 0C178.193 0 185.761 2.63258 191.027 7.89774C196.621 13.1629 199.418 20.567 199.418 30.1101Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-41"
+    },
+    {
+      "id": "17d0c4f5da48080b",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-42"
+    },
+    {
+      "id": "169012080e5d11e3",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-43"
+    },
+    {
+      "id": "2d359ba63e0c3777",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-44"
+    },
+    {
+      "id": "d0f11b8aa4539835",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M-1.15007e-07 2.63065C-2.30293e-07 2.55588 0.0296999 2.48418 0.0825665 2.43132L2.43174 0.0821332C2.54183 -0.0279561 2.72032 -0.0279566 2.83041 0.0821327C2.9405 0.192222 2.9405 0.370711 2.83041 0.480801L0.962469 2.34875L6.48372 2.34875C6.63941 2.34875 6.76562 2.47496 6.76562 2.63065C6.76562 2.78634 6.63941 2.91255 6.48372 2.91255L0.962472 2.91255L2.83041 4.78048C2.9405 4.89057 2.9405 5.06906 2.83041 5.17915C2.72032 5.28924 2.54183 5.28924 2.43174 5.17915L0.0825671 2.82998C0.0297003 2.77712 2.78117e-10 2.70541 -1.15007e-07 2.63065Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-45"
+    },
+    {
+      "id": "a57f680c3add8cd4",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-46"
+    },
+    {
+      "id": "50dd18618e8c6fc7",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-47"
+    },
+    {
+      "id": "0dfe3963d768c915",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-48"
+    },
+    {
+      "id": "eeeae99de43f44d2",
+      "markup": "<svg height=\"100%\" viewBox=\"0 0 211 214\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M126.885 65.65C137.415 65.65 145.642 69.4343 151.565 77.003C157.489 84.5717 160.286 95.102 159.957 108.594C159.628 120.77 155.35 133.11 147.123 145.615C139.225 157.79 128.859 168.979 116.026 179.18C103.521 189.381 89.6997 197.608 74.5624 203.86C59.425 210.113 44.4522 213.239 29.644 213.239C20.4299 213.239 13.1903 211.1 7.92516 206.822C2.33093 202.544 -0.30165 196.785 0.0274228 189.546C0.0274228 183.952 2.33093 177.699 6.93795 170.789C11.2159 163.878 16.8101 157.297 23.7206 151.044C30.6312 144.463 38.0353 138.704 45.933 133.768C54.1599 128.832 62.2221 125.541 70.1199 123.896L70.6135 125.87C63.0448 127.845 55.3116 131.3 47.4139 136.236C39.5161 140.843 32.2765 146.273 25.6951 152.525C18.7846 158.778 13.3549 165.194 9.40599 171.776C5.12805 178.028 2.98908 183.952 2.98908 189.546C2.98908 203.367 11.3804 210.277 28.1631 210.277C37.7062 210.277 47.9075 207.645 58.7669 202.38C69.9553 197.444 80.9793 190.698 91.8387 182.142C102.698 173.586 112.57 164.207 121.455 154.006C130.34 143.476 137.415 132.945 142.68 122.415C148.275 111.556 151.236 101.354 151.565 91.8113C152.223 76.3448 143.997 68.6116 126.885 68.6116C121.949 68.6116 118.329 69.4343 116.026 71.0797C113.722 72.725 113.064 74.3704 114.051 76.0158C115.367 77.6611 118.823 78.4838 124.417 78.4838C131.986 78.4838 140.048 76.5094 148.604 72.5605C157.489 68.6116 165.88 63.6755 173.778 57.7522C181.675 51.4999 188.092 44.9184 193.028 38.0079C197.965 31.0974 200.433 24.6804 200.433 18.7571C200.433 8.22682 195.332 2.96166 185.131 2.96166C177.562 2.96166 168.677 5.92331 158.476 11.8466C148.275 17.7699 139.39 25.3386 131.821 34.5526L133.795 29.1229C138.073 23.8578 143.339 19.0862 149.591 14.8083C155.843 10.5303 162.26 7.07507 168.842 4.44248C175.752 1.48083 181.84 0 187.105 0C194.016 0 199.774 2.46805 204.382 7.40414C208.989 12.0112 211.127 18.099 210.798 25.6677C210.798 32.2491 208.166 38.8306 202.901 45.412C197.636 51.9935 190.725 58.0813 182.169 63.6755C173.613 68.9407 164.235 73.2187 154.033 76.5094C143.832 79.8001 133.631 81.4455 123.43 81.4455C116.848 81.4455 112.735 80.1292 111.089 77.4966C109.444 74.864 110.102 72.2314 113.064 69.5989C116.026 66.9663 120.633 65.65 126.885 65.65Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-49"
+    },
+    {
+      "id": "1fa48af7bdd486cd",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-50"
+    },
+    {
+      "id": "8444b2531344568f",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-51"
+    },
+    {
+      "id": "5cfa9ce3e4213ebb",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-52"
+    },
+    {
+      "id": "bd945d8304f5f828",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M-1.15007e-07 2.63065C-2.30293e-07 2.55588 0.0296999 2.48418 0.0825665 2.43132L2.43174 0.0821332C2.54183 -0.0279561 2.72032 -0.0279566 2.83041 0.0821327C2.9405 0.192222 2.9405 0.370711 2.83041 0.480801L0.962469 2.34875L6.48372 2.34875C6.63941 2.34875 6.76562 2.47496 6.76562 2.63065C6.76562 2.78634 6.63941 2.91255 6.48372 2.91255L0.962472 2.91255L2.83041 4.78048C2.9405 4.89057 2.9405 5.06906 2.83041 5.17915C2.72032 5.28924 2.54183 5.28924 2.43174 5.17915L0.0825671 2.82998C0.0297003 2.77712 2.78117e-10 2.70541 -1.15007e-07 2.63065Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-53"
+    },
+    {
+      "id": "8b1346b7e10d471b",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-54"
+    },
+    {
+      "id": "9b7315e219244f79",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-55"
+    },
+    {
+      "id": "eb83b0c18a0b1616",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-56"
+    },
+    {
+      "id": "da73cb2076045167",
+      "markup": "<svg height=\"100%\" viewBox=\"0 0 241 226\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M237.426 0H240.881L55.2842 225.579H27.6421C38.5015 216.365 50.5126 205.341 63.6755 192.507C76.8384 179.345 91.6467 163.714 108.1 145.615C124.554 127.516 143.311 106.455 164.372 82.4327C185.761 58.4104 210.113 30.9328 237.426 0ZM6.91052 180.167C7.2396 179.838 8.22681 179.674 9.87218 179.674H116.985L116.492 182.635H7.40413C5.75877 182.635 3.6198 182.964 0.987218 183.623L0 181.154C4.60702 178.851 11.0239 174.244 19.2507 167.333C27.8066 160.094 37.3497 151.373 47.8801 141.172C58.4104 130.971 69.2698 120.111 80.4582 108.594C91.6467 97.0764 102.342 85.5589 112.543 74.0413C122.744 62.5238 131.794 51.9935 139.691 42.4504C147.589 32.5782 153.512 24.5159 157.461 18.2635H162.891C157.955 25.8322 150.715 35.3753 141.172 46.8928C131.629 58.0813 120.77 70.257 108.594 83.4199C96.7473 96.2537 84.4071 108.923 71.5733 121.428C59.0685 133.933 47.0574 145.45 35.5398 155.98C24.3514 166.182 14.8083 174.244 6.91052 180.167Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-57"
+    },
+    {
+      "id": "78bd474ff5273d48",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-58"
+    },
+    {
+      "id": "dc4209dc31a23a54",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-59"
+    },
+    {
+      "id": "12671e472ee221aa",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-60"
+    },
+    {
+      "id": "43cd3e8de058d6ac",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M-1.15007e-07 2.63065C-2.30293e-07 2.55588 0.0296999 2.48418 0.0825665 2.43132L2.43174 0.0821332C2.54183 -0.0279561 2.72032 -0.0279566 2.83041 0.0821327C2.9405 0.192222 2.9405 0.370711 2.83041 0.480801L0.962469 2.34875L6.48372 2.34875C6.63941 2.34875 6.76562 2.47496 6.76562 2.63065C6.76562 2.78634 6.63941 2.91255 6.48372 2.91255L0.962472 2.91255L2.83041 4.78048C2.9405 4.89057 2.9405 5.06906 2.83041 5.17915C2.72032 5.28924 2.54183 5.28924 2.43174 5.17915L0.0825671 2.82998C0.0297003 2.77712 2.78117e-10 2.70541 -1.15007e-07 2.63065Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-61"
+    },
+    {
+      "id": "a7447783bdca8cbd",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 7 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.76562 2.63107C6.76563 2.70583 6.73593 2.77754 6.68306 2.8304L4.33388 5.17959C4.22379 5.28967 4.0453 5.28968 3.93521 5.17959C3.82513 5.0695 3.82513 4.89101 3.93521 4.78092L5.80316 2.91297L0.281901 2.91297C0.126212 2.91297 0 2.78676 0 2.63107C0 2.47538 0.126212 2.34917 0.281901 2.34917L5.80315 2.34917L3.93521 0.481235C3.82513 0.371146 3.82513 0.192657 3.93521 0.0825672C4.0453 -0.0275222 4.22379 -0.0275224 4.33388 0.0825666L6.68306 2.43174C6.73592 2.4846 6.76562 2.5563 6.76562 2.63107Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-62"
+    },
+    {
+      "id": "e72cfed582be50a2",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-63"
+    },
+    {
+      "id": "f837d51ad92eb6de",
+      "markup": "<svg aria-hidden=\"true\" class=\"size-3.5\" viewBox=\"0 0 22 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20.5 7.00091L18.3787 9.12222M18.3787 9.12222L16.2574 11.2435M18.3787 9.12222L16.2574 7.00091M18.3787 9.12222L20.5 11.2435M3 5.00091H4.33333C4.76607 5.00091 5.18714 4.86056 5.53333 4.60091L10.2 1.10091C10.5296 0.853696 11 1.08889 11 1.50091V16.5009C11 16.9129 10.5296 17.1481 10.2 16.9009L5.53333 13.4009C5.18714 13.1412 4.76607 13.0009 4.33333 13.0009H3C1.89543 13.0009 1 12.1055 1 11.0009V7.00091C1 5.89634 1.89543 5.00091 3 5.00091Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+      "name": "svg-64"
+    },
+    {
+      "id": "4b76a2a707a4afc7",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-65"
+    },
+    {
+      "id": "48fb0ce766589edc",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-66"
+    },
+    {
+      "id": "59316b77df478e13",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-67"
+    },
+    {
+      "id": "bdb021314826cdb8",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-68"
+    },
+    {
+      "id": "c26387ac61b92359",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-69"
+    },
+    {
+      "id": "16f434cd03c523e3",
+      "markup": "<svg width=\"100%\" class=\"z-10 relative\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-70"
+    },
+    {
+      "id": "10581757a5bb3090",
+      "markup": "<svg width=\"100%\" class=\"opacity-0 pointer-events-none\" viewBox=\"0 0 1811 493\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84.1471 261.866V411.984H232.919C286.773 411.984 313.7 386.628 313.7 335.915C313.7 286.549 286.773 261.866 232.919 261.866H84.1471ZM0 480.648V0H233.592C278.022 0 312.803 10.0977 337.935 30.293C363.515 50.4883 376.306 80.108 376.306 119.152C376.306 167.621 353.418 201.729 307.642 221.475V222.821C367.779 235.836 397.847 277.124 397.847 346.686C397.847 386.628 383.935 418.267 356.11 441.604C325.144 467.633 280.041 480.648 220.802 480.648H0ZM84.1471 68.664V201.28H221.475C242.119 201.28 258.949 195.446 271.963 183.777C285.427 172.109 292.159 155.728 292.159 134.635C292.159 90.6544 268.597 68.664 221.475 68.664H84.1471Z\" fill=\"currentColor\"></path><path d=\"M434.94 307.642V0H519.087V280.041C519.087 323.574 524.249 354.764 534.571 373.613C551.176 404.13 583.712 419.389 632.181 419.389C680.65 419.389 713.187 404.13 729.792 373.613C740.114 354.764 745.275 323.574 745.275 280.041V0H829.422V307.642C829.422 367.779 811.471 414.004 775.568 446.316C741.011 476.833 693.216 492.092 632.181 492.092C571.146 492.092 523.575 476.833 489.468 446.316C453.116 414.004 434.94 367.779 434.94 307.642Z\" fill=\"currentColor\"></path><path d=\"M892.485 480.648V0H976.632V480.648H892.485Z\" fill=\"currentColor\"></path><path d=\"M1046.18 480.648V0H1130.33V407.945H1374.69V480.648H1046.18Z\" fill=\"currentColor\"></path><path d=\"M1483.22 68.664V411.984H1566.02C1627.06 411.984 1670.37 395.379 1695.95 362.169C1716.14 335.242 1726.24 294.627 1726.24 240.324C1726.24 186.021 1716.14 145.406 1695.95 118.479C1670.37 85.269 1627.06 68.664 1566.02 68.664H1483.22ZM1399.08 480.648V0H1598.34C1668.8 0 1722.65 23.5612 1759.9 70.6835C1793.56 112.869 1810.39 169.416 1810.39 240.324C1810.39 311.232 1793.56 367.779 1759.9 409.965C1722.65 457.087 1668.8 480.648 1598.34 480.648H1399.08Z\" fill=\"currentColor\"></path></svg>",
+      "name": "svg-71"
+    },
+    {
+      "id": "405b51b87c4508b3",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 10 10\" fill=\"none\" class=\"size-2.5 title-and-desc-elem opacity-0 translate-x-4 blur motion-reduce:opacity-100 motion-reduce:translate-x-0 motion-reduce:blur-none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"transform: translate(1rem, 0px); translate: none; rotate: none; scale: none; filter: blur(8px); opacity: 0;\"><path d=\"M5 10L5 0\" stroke=\"currentColor\"></path><line y1=\"5\" x2=\"10\" y2=\"5\" stroke=\"currentColor\"></line></svg>",
+      "name": "svg-72"
+    },
+    {
+      "id": "e4539765de289a3d",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 1920 686\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M293.828 136.27C297.391 132.419 301.162 128.708 305.143 125.135C322.635 108.989 342.818 95.5333 365.692 84.769C388.566 73.5562 412.338 65.0344 437.006 59.2038C462.123 53.3731 486.567 50.4577 510.338 50.4577C556.086 50.0092 594.883 55.6156 626.727 67.277C659.02 78.4898 685.034 93.2908 704.768 111.68C708.262 114.935 711.586 118.246 714.742 121.614C733.022 109.536 751.675 98.824 770.7 89.4784C796.714 76.4715 822.055 66.38 846.723 59.2038C870.004 52.431 891.288 48.8543 910.574 48.4734C910.595 48.4621 910.615 48.4508 910.636 48.4394H914H944.947C933.734 51.1305 921.176 56.0641 907.272 63.2404C893.817 69.968 879.913 78.4898 865.56 88.8056C851.656 99.1214 838.425 111.007 825.867 124.462C804.338 146.44 784.379 171.108 765.99 198.467C763.616 202 761.249 205.555 758.889 209.133C760.484 217.992 761.281 226.77 761.281 235.469C761.281 250.719 757.917 267.09 751.189 284.582C744.462 302.074 735.043 318.444 722.933 333.694C710.823 348.495 696.471 360.829 679.876 370.696C672.004 375.164 663.778 378.573 655.199 380.921C639.022 407.792 621.907 433.537 603.853 458.156C597.499 466.821 590.936 475.206 584.163 483.313C583.168 484.505 582.168 485.69 581.163 486.87C567.776 502.589 553.587 517.237 538.594 530.815C500.919 565.799 458.31 592.038 410.768 609.53C363.225 627.47 312.992 636.44 260.067 636.44C205.349 636.44 159.6 628.367 122.822 612.221C86.4928 596.074 59.1335 574.097 40.7444 546.289C22.3554 518.033 13.1608 486.413 13.1608 451.429C13.1608 426.76 19.44 402.541 31.9984 378.769C44.5568 354.998 62.4973 333.694 85.82 314.856C109.591 295.57 138.072 280.321 171.262 269.108C204.452 257.447 241.454 251.616 282.269 251.616C323.981 251.616 357.843 257.222 383.857 268.435C410.319 279.648 429.83 294.225 442.388 312.165C454.946 329.657 461.226 348.495 461.226 368.678C461.226 368.978 461.224 369.278 461.221 369.579C481.425 377.098 499.591 386.441 515.72 397.607C533.969 410.003 549.046 424.116 560.951 439.948C577.954 421.993 594.497 403.394 610.581 384.152C610.833 383.855 611.086 383.558 611.338 383.261C600.013 380.558 590.79 374.351 583.67 364.641C574.251 351.186 569.542 336.161 569.542 319.566C569.542 297.14 575.148 275.163 586.361 253.634C597.574 231.657 612.599 210.577 631.436 190.394C650.723 170.211 672.251 151.597 696.022 134.554C701.034 130.934 706.075 127.42 711.145 124.011C708.268 120.98 705.245 117.991 702.077 115.044C682.791 96.6546 657.226 82.0779 625.381 71.3136C593.986 60.1008 555.638 54.4943 510.338 54.4943C486.567 54.4943 462.347 57.4097 437.679 63.2404C413.01 68.6225 389.464 76.6958 367.038 87.4601C344.612 98.2244 324.878 111.68 307.834 127.826C304.724 130.691 301.748 133.63 298.906 136.645C311.63 137.653 324.473 139.198 337.436 141.282C363.001 145.318 387.445 151.822 410.768 160.792C434.091 169.314 454.722 180.302 472.663 193.758C490.603 206.765 504.283 222.687 513.702 241.524L509.665 242.87C500.246 224.481 486.791 208.783 469.299 195.776C451.807 182.769 431.624 172.229 408.75 164.156C385.875 155.634 361.88 149.355 336.763 145.318C322.92 143.053 309.146 141.423 295.444 140.429C284.345 152.934 275.468 166.674 268.813 181.648L264.777 180.302C271.351 165.588 279.893 152.184 290.401 140.092C291.521 138.803 292.664 137.529 293.828 136.27ZM714.023 127.11C709.107 130.395 704.228 133.774 699.386 137.245C675.615 154.289 654.311 172.678 635.473 192.412C616.635 212.147 601.61 232.778 590.397 254.307C579.185 275.836 573.578 297.589 573.578 319.566C573.578 334.815 578.063 348.943 587.034 361.95C593.897 371.558 602.991 377.491 614.318 379.748C638.552 351.123 661.974 322.092 684.585 292.655C707.993 261.739 730.966 231.911 753.504 203.169C751.268 193.405 748.029 183.54 743.789 173.575C737.142 157.131 727.22 141.643 714.023 127.11ZM756.73 199.019C778.851 170.509 800.551 144.311 821.83 120.426C837.977 103.382 853.226 89.0299 867.579 77.3685C879.666 67.845 891.455 59.6675 902.944 52.8363C886.149 53.9089 867.857 57.3769 848.068 63.2404C823.849 69.968 798.956 79.8353 773.391 92.8422C754.295 102.222 735.7 112.854 717.606 124.736C730.858 139.508 740.931 155.338 747.826 172.229C751.579 181.238 754.547 190.168 756.73 199.019ZM755.601 214.141C740.828 236.737 726.351 260.217 712.169 284.582C695.125 314.184 677.633 343.785 659.693 373.387C659.276 374.093 658.859 374.797 658.44 375.501C665.116 373.264 671.588 370.317 677.857 366.66C694.004 357.241 707.908 345.131 719.569 330.33C731.679 315.529 740.874 299.831 747.153 283.236C753.881 266.193 757.244 250.27 757.244 235.469C757.244 228.415 756.696 221.305 755.601 214.141ZM558.099 442.949C549.473 451.995 540.728 460.877 531.866 469.593C504.507 496.056 476.027 519.603 446.425 540.234C416.823 560.417 385.651 576.34 352.91 588.001C320.168 599.662 285.857 605.493 249.976 605.493C206.919 605.493 167.674 600.111 132.241 589.346C97.2571 579.031 69.225 562.436 48.1449 539.561C27.5133 516.687 17.1974 487.31 17.1974 451.429C17.1974 427.657 23.2524 404.335 35.3622 381.461C47.9206 358.138 65.8611 337.058 89.1838 318.22C112.507 299.383 140.314 284.357 172.607 273.145C205.349 261.483 241.903 255.653 282.269 255.653C322.635 255.653 355.601 261.035 381.166 271.799C407.18 282.563 426.242 296.467 438.351 313.511C450.789 330.391 457.068 348.591 457.187 368.111C449.409 365.346 441.336 362.844 432.969 360.605C401.573 351.634 367.262 347.149 330.035 347.149C286.53 347.149 250.2 352.756 221.047 363.969C192.342 374.733 170.813 387.964 156.461 403.662C142.108 419.36 134.932 434.385 134.932 448.738C134.932 460.399 138.745 471.836 146.369 483.049C153.994 493.813 166.328 502.783 183.372 509.96C200.415 516.687 223.289 520.051 251.994 520.051C285.184 520.051 314.786 515.566 340.8 506.596C366.814 497.625 388.791 485.74 406.731 470.939C424.672 455.689 438.127 439.319 447.097 421.827C455.449 405.919 460.098 390.187 461.044 374.632C479.898 381.857 497.002 390.636 512.356 400.971C530.868 413.196 546.116 427.188 558.099 442.949ZM457.076 373.144C456.308 388.327 451.637 403.882 443.061 419.808C434.091 437.3 420.635 453.223 402.695 467.575C385.203 481.927 363.674 493.589 338.109 502.559C312.992 511.529 284.287 516.015 251.994 516.015C224.635 516.015 202.658 512.651 186.063 505.923C169.468 499.195 157.358 490.673 149.733 480.358C142.557 470.042 138.969 459.278 138.969 448.065C138.969 434.609 145.921 420.481 159.825 405.68C173.729 390.879 194.809 378.321 223.065 368.005C251.321 357.241 286.754 351.859 329.363 351.859C365.692 351.859 399.331 356.12 430.278 364.641C439.564 367.162 448.496 369.996 457.076 373.144ZM9.87013 208.25C10.7943 207.634 11.7223 207.023 12.6542 206.416H9.87013V208.25Z\" fill=\"url(#paint0_linear_1_2)\"></path><path d=\"M624.598 500.541H619.216L625.271 493.813C657.115 458.829 682.681 430.124 701.967 407.699C721.701 385.273 734.708 369.575 740.987 360.605H763.189C749.285 370.92 732.017 386.394 711.386 407.026C691.203 427.209 664.516 455.914 631.326 493.14L624.598 500.541ZM638.054 589.346C645.23 589.346 655.097 585.534 667.656 577.909C680.662 570.285 694.566 560.193 709.367 547.635C724.168 535.076 738.072 521.621 751.079 507.268L757.134 500.541H762.516L757.807 505.923C743.454 522.069 728.429 536.646 712.731 549.653C697.482 562.66 683.129 573.2 669.674 581.273C656.219 588.898 645.454 592.71 637.381 592.71C632.896 592.71 628.411 591.141 623.926 588.001C619.44 585.31 617.198 580.6 617.198 573.873C617.198 565.351 620.562 556.156 627.289 546.289C634.466 535.973 643.212 525.658 653.527 515.342C663.843 505.026 674.159 495.159 684.475 485.74C694.791 475.873 703.312 466.902 710.04 458.829C717.216 450.756 720.804 443.804 720.804 437.973C720.804 431.694 717.216 428.554 710.04 428.554C706.452 428.554 702.191 429.227 697.257 430.573C692.772 431.47 687.839 433.04 682.457 435.282L686.493 429.9C690.978 427.657 695.239 426.088 699.276 425.191C703.761 423.845 708.47 423.172 713.404 423.172C721.926 423.172 728.878 424.966 734.26 428.554C739.642 432.143 742.333 437.749 742.333 445.374C742.333 455.241 738.296 465.108 730.223 474.976C722.598 484.394 712.955 493.813 701.294 503.232C690.081 512.202 678.644 521.172 666.983 530.143C655.77 538.664 646.127 547.186 638.054 555.708C630.429 563.781 626.617 571.63 626.617 579.255C626.617 585.983 630.429 589.346 638.054 589.346ZM775.299 592.71C770.814 592.71 766.328 591.141 761.843 588.001C757.358 585.31 755.116 580.6 755.116 573.873C755.116 565.351 758.479 556.156 765.207 546.289C772.383 535.973 781.129 525.658 791.445 515.342C801.761 505.026 812.077 495.159 822.393 485.74C832.708 475.873 841.23 466.902 847.958 458.829C855.134 450.756 858.722 443.804 858.722 437.973C858.722 431.694 855.134 428.554 847.958 428.554C844.37 428.554 840.109 429.227 835.175 430.573C830.69 431.47 825.757 433.04 820.374 435.282L824.411 429.9C828.896 427.657 833.157 426.088 837.194 425.191C841.679 423.845 846.388 423.172 851.322 423.172C859.844 423.172 866.795 424.966 872.178 428.554C877.56 432.143 880.251 437.749 880.251 445.374C880.251 455.241 876.214 465.108 868.141 474.976C860.516 484.394 850.873 493.813 839.212 503.232C827.999 512.202 816.562 521.172 804.901 530.143C793.688 538.664 784.045 547.186 775.972 555.708C768.347 563.781 764.534 571.63 764.534 579.255C764.534 585.983 768.347 589.346 775.972 589.346C783.148 589.346 793.015 585.534 805.573 577.909C818.58 570.285 832.484 560.193 847.285 547.635C862.086 535.076 875.99 521.621 888.997 507.268L895.052 500.541H900.434L895.725 505.923C881.372 522.069 866.347 536.646 850.649 549.653C835.4 562.66 821.047 573.2 807.592 581.273C794.136 588.898 783.372 592.71 775.299 592.71ZM757.134 500.541L763.189 493.813C790.997 463.763 813.198 439.543 829.793 421.154C846.388 402.316 857.377 388.861 862.759 380.788H884.96C872.85 389.31 857.825 402.541 839.885 420.481C821.944 437.973 798.397 462.193 769.244 493.14L762.516 500.541H757.134Z\" fill=\"url(#paint1_linear_1_2)\"></path><path d=\"M859.5 591.365C848.287 591.365 842.681 582.619 842.681 565.127C842.681 553.465 846.269 541.131 853.445 528.124C860.173 515.117 869.367 502.559 881.029 490.449C892.69 477.891 905.697 466.678 920.049 456.811C934.402 446.495 949.203 438.422 964.452 432.591C980.15 426.76 994.951 423.845 1008.85 423.845C1020.52 423.845 1026.35 428.33 1026.35 437.3C1026.35 445.822 1020.96 456.586 1010.2 469.593C999.436 482.152 985.981 496.953 969.834 513.996C957.276 527.003 943.821 539.561 929.468 551.671C915.564 563.333 902.333 572.976 889.775 580.6C877.665 587.777 867.573 591.365 859.5 591.365ZM860.173 588.001C866.901 588.001 875.871 584.861 887.084 578.582C898.297 571.854 910.855 562.66 924.759 550.999C938.663 539.337 952.791 526.106 967.143 511.305C983.29 494.262 996.297 479.685 1006.16 467.575C1016.48 455.465 1021.64 445.598 1021.64 437.973C1021.64 432.143 1017.83 429.227 1010.2 429.227C1003.47 429.227 994.727 431.918 983.963 437.3C973.647 442.683 962.434 450.083 950.324 459.502C938.214 468.472 926.329 478.564 914.667 489.776C903.006 500.989 892.242 512.202 882.374 523.415C872.956 534.628 865.331 545.168 859.5 555.035C853.669 564.902 850.754 573.2 850.754 579.928C850.754 585.31 853.894 588.001 860.173 588.001ZM1070.75 500.541L1066.04 505.923C1051.69 522.069 1037.11 536.87 1022.31 550.326C1007.96 563.333 994.503 573.648 981.944 581.273C969.834 588.898 960.191 592.71 953.015 592.71C948.979 592.71 945.39 591.141 942.251 588.001C939.56 585.31 938.214 581.722 938.214 577.237C938.214 565.575 944.493 549.877 957.052 530.143C970.059 510.408 987.999 488.879 1010.87 465.557H1013.56L1044.51 431.246H1084.21C1078.37 434.834 1072.1 439.319 1065.37 444.701C1058.64 449.635 1052.36 455.017 1046.53 460.847C1020.96 486.413 1000.78 506.82 985.981 522.069C971.18 537.319 960.64 549.205 954.361 557.726C948.53 566.248 945.615 573.424 945.615 579.255C945.615 585.983 948.306 589.346 953.688 589.346C959.967 589.346 968.489 585.983 979.253 579.255C990.466 572.079 1003.02 562.211 1016.93 549.653C1030.83 537.095 1044.96 522.966 1059.31 507.268L1065.37 500.541H1070.75Z\" fill=\"url(#paint2_linear_1_2)\"></path><path d=\"M1161.63 511.305L1158.94 515.342H1064.08L1066.77 511.305H1161.63ZM1280.04 656.623L1281.38 657.969C1274.21 667.836 1265.01 674.788 1253.8 678.825C1243.04 683.31 1232.95 685.553 1223.53 685.553C1204.69 685.553 1187.42 682.413 1171.72 676.134C1156.47 670.303 1141.9 662.903 1127.99 653.932C1114.54 644.962 1101.53 635.768 1088.97 626.349C1076.86 617.379 1064.53 609.754 1051.97 603.475C1039.86 597.644 1027.08 594.729 1013.62 594.729C1007.79 594.729 1002.41 596.074 997.476 598.765L994.112 595.401C1012.05 581.049 1031.79 566.024 1053.32 550.326C1075.29 534.179 1097.72 518.033 1120.59 501.886C1143.47 485.74 1165.44 470.715 1186.52 456.811C1174.86 456.811 1162.75 455.689 1150.19 453.447C1137.64 450.756 1126.42 449.41 1116.56 449.41C1105.34 449.41 1094.58 453.895 1084.26 462.866C1074.4 471.836 1064.08 482.152 1053.32 493.813L1047.26 500.541H1041.88L1047.93 493.813C1058.25 482.6 1067.89 472.284 1076.86 462.866C1086.28 452.998 1095.7 445.149 1105.12 439.319C1114.54 433.04 1124.18 429.9 1134.05 429.9C1140.78 429.9 1148.4 430.573 1156.92 431.918C1165.89 432.815 1175.09 433.937 1184.51 435.282C1193.92 436.628 1202.45 437.3 1210.07 437.3C1219.49 437.3 1227.56 432.143 1234.29 421.827H1244.38C1237.65 427.657 1231.38 432.591 1225.54 436.628C1220.16 440.216 1215.23 443.355 1210.74 446.046C1192.35 457.708 1171.72 471.612 1148.85 487.758C1125.97 503.456 1102.88 519.827 1079.55 536.87C1056.68 553.465 1035.6 569.163 1016.31 583.964C1018.56 583.067 1021.47 582.394 1025.06 581.946C1028.2 581.049 1031.34 580.6 1034.48 580.6C1049.28 580.6 1062.96 583.964 1075.52 590.692C1088.08 597.42 1100.19 605.717 1111.85 615.584C1123.96 625.452 1136.07 635.319 1148.18 645.186C1160.29 655.054 1173.07 663.351 1186.52 670.079C1200.43 676.807 1215.9 680.17 1232.95 680.17C1251.33 680.17 1267.03 672.321 1280.04 656.623Z\" fill=\"url(#paint3_linear_1_2)\"></path><path d=\"M1152.37 592.71C1148.33 592.71 1144.97 591.141 1142.28 588.001C1139.14 585.31 1137.57 581.722 1137.57 577.237C1137.57 564.23 1145.87 546.289 1162.46 523.415C1178.61 500.092 1205.07 469.369 1241.85 431.246H1282.22C1277.73 433.488 1272.35 437.076 1266.07 442.01C1259.79 446.943 1252.61 453.223 1244.54 460.847C1219.87 484.619 1200.14 504.353 1185.34 520.051C1170.98 535.301 1160.67 547.635 1154.39 557.053C1148.11 566.024 1144.97 573.424 1144.97 579.255C1144.97 585.983 1147.66 589.346 1153.04 589.346C1159.32 589.346 1168.29 585.758 1179.95 578.582C1191.17 570.957 1203.73 560.866 1217.63 548.307C1231.98 535.749 1245.66 522.069 1258.67 507.268L1264.72 500.541H1270.11L1265.4 505.923C1250.59 522.518 1235.79 537.543 1220.99 550.999C1206.19 564.005 1192.74 574.321 1180.63 581.946C1168.97 589.122 1159.55 592.71 1152.37 592.71ZM1378.42 291.982C1382.46 291.982 1384.48 293.552 1384.48 296.692C1384.48 301.177 1381.34 306.783 1375.06 313.511C1369.23 320.238 1362.27 326.293 1354.2 331.676C1346.13 336.609 1339.18 339.076 1333.35 339.076C1329.76 339.076 1327.96 337.506 1327.96 334.367C1327.96 329.882 1330.88 324.275 1336.71 317.547C1342.99 310.82 1350.16 304.989 1358.24 300.055C1366.31 294.673 1373.04 291.982 1378.42 291.982Z\" fill=\"url(#paint4_linear_1_2)\"></path><path d=\"M1229.05 592.71C1223.67 592.71 1219.63 590.243 1216.94 585.31C1213.8 580.376 1212.23 573.648 1212.23 565.127C1212.23 553.465 1215.82 541.131 1223 528.124C1229.72 515.117 1238.92 502.559 1250.58 490.449C1262.24 477.891 1275.25 466.678 1289.6 456.811C1303.95 446.495 1318.75 438.422 1334 432.591C1349.7 426.76 1364.5 423.845 1378.41 423.845C1390.07 423.845 1395.9 428.33 1395.9 437.3C1395.9 445.822 1390.52 456.586 1379.75 469.593C1368.99 482.152 1355.53 496.953 1339.38 513.996C1326.38 527.452 1312.7 540.234 1298.35 552.344C1284.44 564.005 1271.44 573.648 1259.33 581.273C1247.22 588.898 1237.12 592.71 1229.05 592.71ZM1229.72 589.346C1236.45 589.346 1245.2 585.983 1255.96 579.255C1267.17 572.527 1279.73 563.333 1293.64 551.671C1307.54 540.01 1321.89 526.555 1336.69 511.305C1352.84 494.262 1365.85 479.685 1375.71 467.575C1386.03 455.465 1391.19 445.598 1391.19 437.973C1391.19 432.143 1387.38 429.227 1379.75 429.227C1373.02 429.227 1364.28 431.918 1353.51 437.3C1343.2 442.683 1331.98 450.083 1319.87 459.502C1307.76 468.472 1295.88 478.564 1284.22 489.776C1272.56 500.989 1261.79 512.202 1251.92 523.415C1242.51 534.628 1234.88 545.168 1229.05 555.035C1223.22 564.902 1220.3 573.2 1220.3 579.928C1220.3 586.207 1223.44 589.346 1229.72 589.346ZM1397.92 505.923C1386.7 518.481 1375.94 528.349 1365.62 535.525C1355.31 542.701 1346.34 546.289 1338.71 546.289C1326.6 546.289 1320.55 540.01 1320.55 527.452C1320.55 520.275 1322.34 513.323 1325.93 506.596C1329.52 499.42 1335.8 490.673 1344.77 480.358H1369.66L1338.04 515.342C1332.66 520.724 1329.97 526.779 1329.97 533.507C1329.97 539.786 1333.11 542.925 1339.38 542.925C1345.66 542.925 1353.29 539.786 1362.26 533.507C1371.68 527.227 1381.32 518.481 1391.19 507.268L1397.24 500.541H1402.63L1397.92 505.923Z\" fill=\"url(#paint5_linear_1_2)\"></path><path d=\"M1379.36 500.541H1373.98L1380.03 493.813C1399.77 472.284 1418.38 455.241 1435.87 442.683C1453.37 429.676 1467.27 423.172 1477.59 423.172C1481.62 423.172 1484.99 424.518 1487.68 427.209C1490.37 429.9 1491.71 433.488 1491.71 437.973C1491.71 447.84 1487.68 458.829 1479.6 470.939C1471.53 483.049 1457.63 499.195 1437.89 519.378H1444.62L1431.17 537.543L1386.09 588.001H1341.69C1357.83 576.34 1374.43 562.884 1391.47 547.635C1408.52 532.385 1424.21 517.136 1438.57 501.886C1452.92 486.637 1464.36 473.181 1472.88 461.52C1481.85 449.41 1486.33 440.664 1486.33 435.282C1486.33 429.451 1483.19 426.536 1476.91 426.536C1471.53 426.536 1463.68 429.676 1453.37 435.955C1443.05 441.786 1431.84 449.859 1419.73 460.175C1408.07 470.042 1396.63 481.255 1385.42 493.813L1379.36 500.541ZM1490.37 592.71C1485.44 592.71 1480.95 590.468 1476.91 585.983C1473.33 581.497 1471.53 576.34 1471.53 570.509C1471.53 561.09 1475.12 551.223 1482.3 540.907C1489.47 530.591 1498.22 520.5 1508.53 510.632C1519.3 500.317 1529.84 490.674 1540.15 481.703C1550.92 472.284 1559.89 463.763 1567.06 456.138C1574.24 448.513 1577.83 442.01 1577.83 436.628C1577.83 431.245 1574.69 428.554 1568.41 428.554C1562.13 428.554 1553.61 431.918 1542.85 438.646C1532.08 444.925 1520.2 453.447 1507.19 464.211C1494.18 474.976 1480.95 486.861 1467.49 499.868C1454.49 512.426 1442.38 524.985 1431.17 537.543H1425.78C1437.44 524.536 1450 511.529 1463.46 498.522C1476.91 485.516 1490.37 473.406 1503.82 462.193C1517.28 450.98 1529.61 442.01 1540.83 435.282C1552.49 428.554 1561.91 425.191 1569.08 425.191C1574.02 425.191 1578.5 426.985 1582.54 430.573C1587.02 433.712 1589.27 438.87 1589.27 446.046C1589.27 455.465 1585.45 465.108 1577.83 474.976C1570.65 484.843 1561.68 494.71 1550.92 504.577C1540.15 514.445 1529.39 523.863 1518.63 532.834C1507.86 541.804 1498.67 550.326 1491.04 558.399C1483.87 566.472 1480.28 573.648 1480.28 579.928C1480.28 582.619 1481.17 584.861 1482.97 586.655C1485.21 588.449 1487.9 589.346 1491.04 589.346C1497.77 589.346 1507.41 585.534 1519.97 577.909C1532.53 570.285 1546.21 560.193 1561.01 547.635C1575.81 535.076 1589.71 521.621 1602.72 507.268L1608.78 500.541H1614.16L1609.45 505.923C1595.1 522.069 1580.07 536.646 1564.37 549.653C1549.12 562.66 1535 573.2 1521.99 581.273C1508.98 588.898 1498.44 592.71 1490.37 592.71Z\" fill=\"url(#paint6_linear_1_2)\"></path><path d=\"M1572.87 591.365C1561.66 591.365 1556.05 582.619 1556.05 565.127C1556.05 553.465 1559.64 541.131 1566.82 528.124C1573.55 515.117 1582.74 502.559 1594.4 490.449C1606.06 477.891 1619.07 466.678 1633.42 456.811C1647.77 446.495 1662.58 438.422 1677.82 432.591C1693.52 426.76 1708.32 423.845 1722.23 423.845C1733.89 423.845 1739.72 428.33 1739.72 437.3C1739.72 445.822 1734.34 456.586 1723.57 469.593C1712.81 482.152 1699.35 496.953 1683.21 513.996C1670.65 527.003 1657.19 539.561 1642.84 551.671C1628.94 563.333 1615.71 572.976 1603.15 580.6C1591.04 587.777 1580.95 591.365 1572.87 591.365ZM1573.55 588.001C1580.27 588.001 1589.24 584.861 1600.46 578.582C1611.67 571.854 1624.23 562.66 1638.13 550.999C1652.04 539.337 1666.16 526.106 1680.52 511.305C1696.66 494.262 1709.67 479.685 1719.54 467.575C1729.85 455.465 1735.01 445.598 1735.01 437.973C1735.01 432.143 1731.2 429.227 1723.57 429.227C1716.85 429.227 1708.1 431.918 1697.34 437.3C1687.02 442.683 1675.81 450.083 1663.7 459.502C1651.59 468.472 1639.7 478.564 1628.04 489.776C1616.38 500.989 1605.61 512.202 1595.75 523.415C1586.33 534.628 1578.7 545.168 1572.87 555.035C1567.04 564.902 1564.13 573.2 1564.13 579.928C1564.13 585.31 1567.27 588.001 1573.55 588.001ZM1784.12 500.541L1779.41 505.923C1765.06 522.069 1750.48 536.87 1735.68 550.326C1721.33 563.333 1707.88 573.648 1695.32 581.273C1683.21 588.898 1673.56 592.71 1666.39 592.71C1662.35 592.71 1658.76 591.141 1655.62 588.001C1652.93 585.31 1651.59 581.722 1651.59 577.237C1651.59 565.575 1657.87 549.877 1670.42 530.143C1683.43 510.408 1701.37 488.879 1724.25 465.557H1726.94L1757.88 431.246H1797.58C1791.75 434.834 1785.47 439.319 1778.74 444.701C1772.01 449.635 1765.73 455.017 1759.9 460.847C1734.34 486.413 1714.15 506.82 1699.35 522.069C1684.55 537.319 1674.01 549.205 1667.73 557.726C1661.9 566.248 1658.99 573.424 1658.99 579.255C1658.99 585.983 1661.68 589.346 1667.06 589.346C1673.34 589.346 1681.86 585.983 1692.63 579.255C1703.84 572.079 1716.4 562.211 1730.3 549.653C1744.2 537.095 1758.33 522.966 1772.69 507.268L1778.74 500.541H1784.12Z\" fill=\"url(#paint7_linear_1_2)\"></path><path d=\"M1737.76 592.71C1725.65 592.71 1719.59 585.983 1719.59 572.527C1719.59 551.447 1731.48 527.452 1755.25 500.541L2197.26 0H2239.65C2232.47 3.58809 2221.48 12.1098 2206.68 25.5652C2192.33 38.5721 2175.51 54.9429 2156.22 74.6775C2137.38 93.9635 2117.65 115.268 2097.02 138.591L1784.85 492.468C1764.22 515.342 1749.87 533.058 1741.8 545.616C1733.72 558.175 1729.69 568.939 1729.69 577.909C1729.69 585.534 1732.83 589.346 1739.1 589.346C1750.77 589.346 1766.69 582.17 1786.87 567.818C1807.05 553.017 1828.36 532.834 1850.78 507.268L1856.84 500.541H1862.22L1857.51 505.923C1832.84 533.731 1810.19 555.259 1789.56 570.509C1769.38 585.31 1752.11 592.71 1737.76 592.71Z\" fill=\"url(#paint8_linear_1_2)\"></path><path d=\"M1805.96 592.71C1801.92 592.71 1798.56 591.141 1795.86 588.001C1792.72 585.31 1791.16 581.722 1791.16 577.237C1791.16 564.23 1799.45 546.289 1816.05 523.415C1832.19 500.092 1858.66 469.369 1895.43 431.246H1935.8C1931.32 433.488 1925.93 437.076 1919.65 442.01C1913.37 446.943 1906.2 453.223 1898.13 460.847C1873.46 484.619 1853.72 504.353 1838.92 520.051C1824.57 535.301 1814.25 547.635 1807.97 557.053C1801.7 566.024 1798.56 573.424 1798.56 579.255C1798.56 585.983 1801.25 589.346 1806.63 589.346C1812.91 589.346 1821.88 585.758 1833.54 578.582C1844.75 570.957 1857.31 560.866 1871.21 548.307C1885.57 535.749 1899.25 522.069 1912.25 507.268L1918.31 500.541H1923.69L1918.98 505.923C1904.18 522.518 1889.38 537.543 1874.58 550.999C1859.78 564.005 1846.32 574.321 1834.21 581.946C1822.55 589.122 1813.13 592.71 1805.96 592.71ZM2032.01 291.982C2036.04 291.982 2038.06 293.552 2038.06 296.692C2038.06 301.177 2034.92 306.783 2028.64 313.511C2022.81 320.238 2015.86 326.293 2007.79 331.676C1999.71 336.609 1992.76 339.076 1986.93 339.076C1983.34 339.076 1981.55 337.506 1981.55 334.367C1981.55 329.882 1984.46 324.275 1990.29 317.547C1996.57 310.82 2003.75 304.989 2011.82 300.055C2019.9 294.673 2026.62 291.982 2032.01 291.982Z\" fill=\"url(#paint9_linear_1_2)\"></path><path d=\"M137.38 429.001H8.28023V408.332C27.677 408.332 39.4422 402.927 39.4422 387.028V248.389C39.4422 232.808 29.2669 227.084 9.87013 227.084V208.25V206.416H12.6542H131.974C188.256 206.416 219.1 231.218 219.1 273.827C219.1 314.528 188.256 344.418 131.974 344.418H99.8582V387.028C99.8582 406.106 117.983 408.332 137.38 408.332V429.001ZM99.8582 228.674V322.16H113.849C134.836 322.16 152.643 302.445 152.643 273.827C152.643 247.435 134.836 228.674 113.849 228.674H99.8582Z\" fill=\"#434343\"></path><path d=\"M406.022 362.225H425.101L418.741 429.001H219.687V408.332C239.083 408.332 250.849 402.927 250.849 387.028V248.389C250.849 232.808 239.083 227.084 219.687 227.084V206.416H417.788V264.288H398.709C392.985 235.352 379.312 228.674 350.376 228.674H311.265V302.445H342.427C358.325 302.445 364.049 292.588 364.049 277.325H382.81V349.824H363.731C363.731 332.653 358.325 324.704 342.427 324.704H311.265V406.742H358.961C384.718 406.742 398.709 390.843 406.022 362.225Z\" fill=\"#434343\"></path><path d=\"M590.786 227.084V206.416H680.774V227.084C670.916 227.084 654.699 228.674 654.699 249.979V429.001H615.588L490.94 273.191V385.756C490.94 406.742 509.065 408.332 522.42 408.332V429.001H432.432V408.332C442.289 408.332 458.506 406.742 458.506 385.756V254.748C458.506 231.218 447.377 227.084 428.298 227.084V206.416H507.475L622.265 353.004V249.979C622.265 228.674 604.141 227.084 590.786 227.084Z\" fill=\"#434343\"></path><path d=\"M849.504 364.769C849.504 413.738 799.581 434.725 752.838 434.725C728.036 434.725 703.233 428.683 685.427 416.282V354.912H704.505C705.141 388.3 722.948 410.876 751.884 410.876C780.82 410.876 791.95 392.433 791.95 375.58C791.95 329.791 685.745 338.695 685.745 263.652C685.745 217.863 726.446 200.692 768.101 200.692C791.314 200.692 815.798 206.098 835.513 216.591V274.781H816.434C812.618 242.029 796.719 224.54 770.327 224.54C753.474 224.54 741.709 235.67 741.709 250.933C741.709 294.496 849.504 283.684 849.504 364.769Z\" fill=\"#434343\"></path><path d=\"M994.882 206.416L1067.06 382.576C1072.79 396.567 1085.19 408.332 1103.95 408.332V429.001H983.117V408.332C1003.47 408.332 1007.92 394.977 1000.92 377.806L992.656 357.138H915.069L906.484 378.442C898.535 397.839 906.484 408.332 928.425 408.332V429.001H841.298V408.332C859.423 408.968 871.506 396.567 879.138 378.76L942.734 232.49L934.148 211.185V206.416H994.882ZM954.181 260.79L923.973 334.879H983.753L954.181 260.79Z\" fill=\"#434343\"></path><path d=\"M1073.7 206.416H1292.47L1298.83 280.187H1279.75C1272.43 242.983 1258.12 228.674 1231.41 228.674H1213.29V383.848C1213.29 399.747 1225.05 408.332 1250.81 408.332V429.001H1115.35V408.332C1141.11 408.332 1152.87 399.747 1152.87 383.848V228.674H1134.75C1108.04 228.674 1093.73 242.983 1086.42 280.187H1067.34L1073.7 206.416Z\" fill=\"#434343\"></path><path d=\"M1297.89 317.708C1297.89 247.117 1345.9 200.692 1419.35 200.692C1492.81 200.692 1540.82 247.117 1540.82 317.708C1540.82 388.3 1492.81 434.725 1419.35 434.725C1345.9 434.725 1297.89 388.3 1297.89 317.708ZM1366.25 317.708C1366.25 378.442 1384.06 410.876 1419.35 410.876C1454.65 410.876 1472.46 378.442 1472.46 317.708C1472.46 256.974 1454.65 224.54 1419.35 224.54C1384.06 224.54 1366.25 256.974 1366.25 317.708Z\" fill=\"#434343\"></path><path d=\"M1790.4 408.332H1795.81V429.001H1716.31L1661.94 341.239H1637.77V387.028C1637.77 406.106 1652.72 408.332 1665.44 408.332V429.001H1546.19V408.332C1565.59 408.332 1577.36 402.927 1577.36 387.028V248.389C1577.36 232.808 1567.18 227.084 1547.78 227.084V206.416H1676.25C1727.44 206.416 1758.29 232.808 1758.29 275.417C1758.29 302.127 1742.7 324.068 1715.68 334.561L1742.39 372.401C1758.92 395.613 1773.23 408.332 1790.4 408.332ZM1637.77 228.674V318.98H1651.76C1679.11 318.98 1693.74 300.855 1693.74 275.417C1693.74 249.025 1679.11 228.674 1651.76 228.674H1637.77Z\" fill=\"#434343\"></path><path d=\"M1909.22 408.332V429.001H1786.48V408.332C1805.88 408.332 1817.64 402.927 1817.64 387.028V248.389C1817.64 232.808 1805.88 227.084 1786.48 227.084V206.416H1909.22V227.084C1889.82 227.084 1878.06 232.808 1878.06 248.389V387.028C1878.06 402.927 1889.82 408.332 1909.22 408.332Z\" fill=\"#434343\"></path><path d=\"M640 429H0V435H640V429Z\" fill=\"#009246\"></path><path d=\"M1280 429H640V435H1280V429Z\" fill=\"white\"></path><path d=\"M1920 429H1280V435H1920V429Z\" fill=\"#CE2B37\"></path><defs><linearGradient id=\"paint0_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint1_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint2_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint3_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint4_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint5_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint6_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint7_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint8_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient><linearGradient id=\"paint9_linear_1_2\" x1=\"3046.42\" y1=\"755.966\" x2=\"521.751\" y2=\"-5.02912\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#434343\"></stop><stop offset=\"1\" stop-color=\"#EFEFEF\"></stop></linearGradient></defs></svg>",
+      "name": "svg-73"
+    },
+    {
+      "id": "dae4b50c1350bc76",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-74"
+    },
+    {
+      "id": "9ed4344b5c7050d3",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-75"
+    },
+    {
+      "id": "fa6d37c37c3eb02b",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-76"
+    },
+    {
+      "id": "dba2e3cc8ee5c15c",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-77"
+    },
+    {
+      "id": "4058dbf977eecc41",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 14 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.06978 1.94975L12.9693 1.94973L12.9693 11.8492M0.948451 13.9705L12.6157 2.3033\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
+      "name": "svg-78"
+    },
+    {
+      "id": "c66fd6e2d5316251",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 20 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.6783 1.53149L17.8251 8.67827L10.6783 15.8251M0.468561 8.67827L17.3146 8.67829\" stroke=\"currentColor\" stroke-width=\"2.04194\"></path></svg>",
+      "name": "svg-79"
+    },
+    {
+      "id": "066a3772eedf2ba0",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 20 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.6783 1.53149L17.8251 8.67827L10.6783 15.8251M0.468561 8.67827L17.3146 8.67829\" stroke=\"currentColor\" stroke-width=\"2.04194\"></path></svg>",
+      "name": "svg-80"
+    },
+    {
+      "id": "b63424e738048611",
+      "markup": "<svg width=\"100%\" viewBox=\"0 0 20 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.6783 1.53149L17.8251 8.67827L10.6783 15.8251M0.468561 8.67827L17.3146 8.67829\" stroke=\"currentColor\" stroke-width=\"2.04194\"></path></svg>",
+      "name": "svg-81"
+    },
+    {
+      "id": "b80fdc7fbe4bce5a",
+      "markup": "<svg viewBox=\"0 0 17 20\" fill=\"none\" class=\"rotate-180 w-[35%] md:w-[35%]\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.5872 11.0315L8.44038 18.1783L1.29356 11.0315M8.44038 0.821832L8.44036 17.6679\" stroke=\"currentColor\" stroke-width=\"2.04194\"></path></svg>",
+      "name": "svg-82"
+    }
+  ],
+  "pageUrl": "https://pensatori-irrazionali.com/",
+  "summary": {
+    "byKind": {
+      "font": 5,
+      "image": 46,
+      "other": 8,
+      "script": 28,
+      "stylesheet": 0,
+      "video": 2
+    },
+    "inlineSvgCount": 82,
+    "totalCount": 89
+  }
+}

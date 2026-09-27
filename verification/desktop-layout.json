@@ -1,0 +1,320 @@
+{
+  "reference": {
+    "canvases": 4,
+    "height": 900,
+    "heroText": [
+      {
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "lineHeight": "36px",
+        "rect": {
+          "bottom": 852,
+          "height": 108,
+          "left": 48,
+          "right": 748.796875,
+          "top": 744,
+          "width": 700.796875,
+          "x": 48,
+          "y": 744
+        },
+        "size": "36px",
+        "text": "A creative house based in Europe, operating worldwide. We shape experiences where depth, elegance, and essence are felt, not explained."
+      }
+    ],
+    "sections": [
+      {
+        "class": "relative w-screen h-svh md:h-screen flex items-end px-6 md:px-12 pb-6 md:pb-12 home-hero overflow-hidden",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 900,
+        "width": 1440,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "class": "w-screen px-6 md:px-12 pt-32 md:pt-44 pb-20 md:pb-40 flex flex-col home-projects",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 570,
+        "width": 1440,
+        "x": 0,
+        "y": 1255.1875
+      },
+      {
+        "class": "w-screen flex flex-col relative z-10 px-6 md:px-12 pb-52 xl:pb-96 home-proof",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 880.78125,
+        "width": 1440,
+        "x": 0,
+        "y": 1825.1875
+      },
+      {
+        "class": "w-screen pt-14 md:pt-36 pb-20 md:pb-20 flex flex-col home-services relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 5904.25,
+        "width": 1440,
+        "x": 0,
+        "y": 3189.15625
+      },
+      {
+        "class": "w-screen px-6 md:px-12 md:py-24 flex flex-col items-center home-quote relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 783.1875,
+        "width": 1440,
+        "x": 0,
+        "y": 9093.40625
+      },
+      {
+        "class": "w-screen px-6 md:px-12 relative flex items-center justify-center z-10 home-reel mt-12 md:mt-0",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 756,
+        "width": 1440,
+        "x": 0,
+        "y": 9876.59375
+      },
+      {
+        "class": "w-screen px-6 md:px-12 pt-8 md:pt-16 pb-52 md:pb-64 flex flex-col items-center home-cta relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 754.859375,
+        "width": 1440,
+        "x": 0,
+        "y": 10632.59375
+      },
+      {
+        "class": "w-screen flex flex-col home-showcase relative z-10 mt-12 md:mt-24",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 879.4375,
+        "width": 1440,
+        "x": 0,
+        "y": 11483.453125
+      }
+    ],
+    "videos": [
+      {
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "src": "https://assets.pensatori-irrazionali.com/v1/static/videos/flagsCycles.mp4"
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 1440
+  },
+  "local": {
+    "canvases": 4,
+    "height": 900,
+    "heroText": [
+      {
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "lineHeight": "36px",
+        "rect": {
+          "bottom": 852,
+          "height": 108,
+          "left": 48,
+          "right": 748.796875,
+          "top": 744,
+          "width": 700.796875,
+          "x": 48,
+          "y": 744
+        },
+        "size": "36px",
+        "text": "A creative house based in Europe, operating worldwide. We shape experiences where depth, elegance, and essence are felt, not explained."
+      }
+    ],
+    "sections": [
+      {
+        "class": "relative w-screen h-svh md:h-screen flex items-end px-6 md:px-12 pb-6 md:pb-12 home-hero overflow-hidden",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 900,
+        "width": 1440,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "class": "w-screen px-6 md:px-12 pt-32 md:pt-44 pb-20 md:pb-40 flex flex-col home-projects",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 570,
+        "width": 1440,
+        "x": 0,
+        "y": 1255.1875
+      },
+      {
+        "class": "w-screen flex flex-col relative z-10 px-6 md:px-12 pb-52 xl:pb-96 home-proof",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 880.78125,
+        "width": 1440,
+        "x": 0,
+        "y": 1825.1875
+      },
+      {
+        "class": "w-screen pt-14 md:pt-36 pb-20 md:pb-20 flex flex-col home-services relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 5904.25,
+        "width": 1440,
+        "x": 0,
+        "y": 3189.15625
+      },
+      {
+        "class": "w-screen px-6 md:px-12 md:py-24 flex flex-col items-center home-quote relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 783.1875,
+        "width": 1440,
+        "x": 0,
+        "y": 9093.40625
+      },
+      {
+        "class": "w-screen px-6 md:px-12 relative flex items-center justify-center z-10 home-reel mt-12 md:mt-0",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 756,
+        "width": 1440,
+        "x": 0,
+        "y": 9876.59375
+      },
+      {
+        "class": "w-screen px-6 md:px-12 pt-8 md:pt-16 pb-52 md:pb-64 flex flex-col items-center home-cta relative z-10",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 754.859375,
+        "width": 1440,
+        "x": 0,
+        "y": 10632.59375
+      },
+      {
+        "class": "w-screen flex flex-col home-showcase relative z-10 mt-12 md:mt-24",
+        "color": "rgb(0, 0, 0)",
+        "font": "helveticaNow, \"helveticaNow Fallback\"",
+        "height": 879.4375,
+        "width": 1440,
+        "x": 0,
+        "y": 11483.453125
+      }
+    ],
+    "videos": [
+      {
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "src": "http://127.0.0.1:4173/assets/cdn/v1/static/videos/flagsCycles.mp4"
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      },
+      {
+        "muted": true,
+        "paused": true,
+        "ready": 0,
+        "src": ""
+      }
+    ],
+    "width": 1440
+  }
+}
