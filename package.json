@@ -13,7 +13,7 @@
     "assets:restore": "git lfs checkout && node scripts/check-assets.mjs",
     "dev": "next dev --hostname 127.0.0.1 --port 4173",
     "predev": "node scripts/check-assets.mjs",
-    "prebuild": "node scripts/check-assets.mjs",
+    "prebuild": "node scripts/check-assets.mjs && node scripts/prepare-vercel-assets.mjs",
     "build:reference": "node scripts/build.mjs",
     "test:migration": "node scripts/test-next.mjs"
   },
