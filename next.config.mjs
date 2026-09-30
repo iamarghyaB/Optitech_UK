@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   devIndicators: false,
+  // Cached reference images are served by our existing endpoint.
+  images: { unoptimized: true },
   ...(process.env.VERCEL === '1' ? {
     outputFileTracingExcludes: { '/*': ['./assets/**/*', './public/assets/**/*'] },
     outputFileTracingIncludes: { '/*': ['./index.html', './pages/**/*', './routes.json', './reference-assets.json'] },
