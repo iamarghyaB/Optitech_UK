@@ -31,13 +31,13 @@ The homepage's eight measured section boxes and hero typography match the refere
 
 Animations, randomized text/logo states, video frames, pointer effects, and graphics performance vary with timing and hardware, so the screenshots are not a claim that every frame on every device is pixel-identical. Both the live site and the local copy emitted the same recoverable React hydration warning during mobile viewport emulation; the visible mobile layout and menu completed correctly. See `verification/REPORT.md`.
 
-Analytics are disabled. Contact forms are visual references and cannot send messages. External editorial/social/map links remain external. The original branding and media remain in place for reference.
+Analytics are disabled. Contact forms are visual references and cannot send messages. Original agency email, social and map links now lead to the Optitech contact page. Retained third-party project imagery is labelled as demo/reference media, not Optitech client work.
 
 ## Working with the reference
 
 Use this folder as a visual/motion reference for your later tech-service site. Content also exists in the original runtime and navigation payloads: editing only the rendered HTML is not sufficient for a reliable rebrand. Build editable components for the new company when adapting the design.
 
-`npm run build:reference` regenerates the localized reference files from `research/` without network access. `npm run build` builds Next.js. `npm run verify` checks the running local server and saved layout comparisons. Download scripts are provided for provenance and are not needed for normal use.
+`npm run content:build` (also `npm run build:reference`) regenerates the preserved pages and applies Optitech copy without network access. `npm run build` builds Next.js. `npm run verify` checks the running local server and saved layout comparisons. Download scripts are provided for provenance and are not needed for normal use.
 
 ## Git LFS media setup and recovery
 
@@ -69,3 +69,8 @@ Commands:
 - `npm run verify`: full original route and asset suite, defaulting to port 4173. Also supports `BASE_URL`.
 
 Git LFS must hydrate files before build/start. All original media remains tracked in LFS, with no substitutions or recompression. The original `server.mjs` is not needed to run Next.
+## Editing Optitech content
+
+Edit `content/agency-content.mjs` for agency copy, services, GBP starting prices, FAQs and process stages, then run `npm run content:build`. The generator updates HTML, byte-counted Flight navigation records and application-bundle copy together. Library exports, stylesheets, animation timing and shaders are preserved. The original captures in `research/` make regeneration repeatable.
+
+The contact wizard is retained, including fields, selection, uploads and navigation. This reference project has no configured email delivery backend; final submissions are blocked with an honest notice. Connect an agency-owned delivery service before collecting enquiries. Do not substitute a made-up email address. Existing route names are retained to preserve navigation; future native service pages can be added through the App Router.

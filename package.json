@@ -1,5 +1,5 @@
 {
-  "name": "pensatori-local-reference",
+  "name": "optitech-uk",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -14,8 +14,9 @@
     "dev": "next dev --hostname 127.0.0.1 --port 4173",
     "predev": "node scripts/check-assets.mjs",
     "prebuild": "node scripts/check-assets.mjs && node scripts/prepare-vercel-assets.mjs",
-    "build:reference": "node scripts/build.mjs",
-    "test:migration": "node scripts/test-next.mjs"
+    "build:reference": "node scripts/build.mjs && node scripts/build-agency-content.mjs",
+    "test:migration": "node scripts/test-next.mjs",
+    "content:build": "node scripts/build.mjs && node scripts/build-agency-content.mjs"
   },
   "dependencies": {
     "next": "^16.3.6",
