@@ -41,7 +41,7 @@ for(const file of await fs.readdir('research/pages')){
  .replace(/<link[^>]*href="https:\/\/static\.cloudflareinsights\.com[^>]*>/g,'');
  // Script and preload links point directly to the project's assets folder.
  html=html.replace(/((?:src|href)=["'])\/_next\/static\//g,'$1/assets/site/_next/static/');
- html=html.replace('</head>','<meta name="robots" content="noindex,nofollow"><script src="/assets/local/reference-mode.js"></script></head>');
+ html=html.replace('</head>','<meta name="robots" content="noindex,nofollow"><link rel="stylesheet" href="/assets/local/responsive.css"><script src="/assets/local/reference-mode.js"></script></head>');
  const serialized=JSON.stringify(localizeFlight(flight)).replaceAll('<','\\u003c');
  html=html.replace('</body>',`<script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([1,${serialized}]);</script></body>`);
  const out=route==='/'?'index.html':'pages/'+file;

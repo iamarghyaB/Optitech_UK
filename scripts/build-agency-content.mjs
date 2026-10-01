@@ -16,7 +16,7 @@ for(let i=0;i<=50;i++)await fs.writeFile(`assets/local/platforms/${i}.svg`,svg(p
 const originalHome=await fs.readFile('research/pages/home.html','utf8');
 const originalLogo=originalHome.match(/<svg\b[^>]*viewBox="0 0 356 266"[^>]*>([\s\S]*?)<\/svg>/)?.[1]||'';
 const brandPaths=[...originalLogo.matchAll(/<path\b[^>]*>[\s\S]*?<\/path>/g)].slice(0,3).map(m=>m[0]).join('');
-await fs.writeFile('assets/local/optitech.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 266"><title>Optitech</title>'+brandPaths+'<text x="178" y="242" text-anchor="middle" font-family="Georgia,serif" font-size="68" font-weight="700" fill="currentColor">OPTITECH</text></svg>');
+await fs.writeFile('assets/local/optitech.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 266"><title>Optitech</title>'+brandPaths+'<text x="178" y="242" text-anchor="middle" font-family="Georgia,serif" font-size="60" font-weight="700" fill="currentColor">OPTITECH</text></svg>');
 const socialImage='<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#f5f5f5"/><text x="80" y="180" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#303030">Optitech</text><text x="80" y="300" font-family="Arial,sans-serif" font-size="46" fill="#303030">Digital systems built to grow your business.</text><text x="80" y="390" font-family="Arial,sans-serif" font-size="30" fill="#303030">Web Development · SEO · Paid Media · Automation</text><text x="80" y="510" font-family="Arial,sans-serif" font-size="26" fill="#303030">Supporting businesses across London and the UK</text></svg>';
 await sharp(Buffer.from(socialImage)).png().toFile('assets/local/optitech-og.png');
 const seen=new Set(), clientNames=new Map(); let clientIndex=0, projectIndex=0, insightIndex=0;
@@ -113,7 +113,8 @@ function tree(x){
   const out={};for(const [k,v] of Object.entries(x))out[k]=['className','style','d','id','_ref','_key','current','filename'].includes(k)?v:tree(v);
   if(x.name==='description'||x.name==='twitter:description'||x.property==='og:description')out.content=pageDescription(activeRoute);
   if(x.name==='twitter:title'||x.property==='og:title')out.content=pageTitle(activeRoute);
-  if(x['@type']==='Organization'){
+  if(x['aria-label']==='Primary')out['data-lenis-prevent']='true';
+ if(x['@type']==='Organization'){
    delete out.address;delete out.email;delete out.telephone;delete out.sameAs;
    out.name='Optitech';out.url=agency.url;out.description=agency.description;out.areaServed='United Kingdom';out.logo=agency.url+'/assets/local/optitech.svg';
   }
@@ -155,8 +156,9 @@ function html(s,route){
  s=s.replace(/(<meta (?:name="twitter:title"|property="og:title") content=")[^"]*/g,'$1'+escape(pageTitle(route)));
  if(route==='/')s=s.replace(/(<h1 class="sr-only">)[^<]*(<\/h1>)/,`$1${agency.headline}$2`);
  s=s.replace(/<html lang="en"/,'<html lang="en-GB"');
+ s=s.replace('<nav aria-label="Primary"', '<nav data-lenis-prevent="true" aria-label="Primary"');
  s=s.replace(/(<div class="line line-([13]) [^>]+>)([\s\S]*?)(?=<div class="line line-2 |<img alt="" loading="lazy" width="550")/g,(all,open,line,inside)=>open+inside.replace(/>([^<>]+)</g,(tag,text)=>'>'+((line==='1'?firstLetters:lastLetters)[text]??text)+'<').replace(/(<\/span>)(E I|A|THI|G)(?=<)/g,(_,close,text)=>close+((line==='1'?firstLetters:lastLetters)[text]??text)));
- s=s.replace(/(<svg\b[^>]*viewBox="0 0 356 266"[^>]*>)([\s\S]*?)(<\/svg>)/g,(_,open,inside,close)=>open+[...inside.matchAll(/<path\b[^>]*>[\s\S]*?<\/path>/g)].slice(0,3).map(m=>m[0]).join('')+'<text x="178" y="242" text-anchor="middle" font-family="Georgia,serif" font-size="68" font-weight="700" fill="currentColor">OPTITECH</text>'+close);
+ s=s.replace(/(<svg\b[^>]*viewBox="0 0 356 266"[^>]*>)([\s\S]*?)(<\/svg>)/g,(_,open,inside,close)=>open+[...inside.matchAll(/<path\b[^>]*>[\s\S]*?<\/path>/g)].slice(0,3).map(m=>m[0]).join('')+'<text x="178" y="242" text-anchor="middle" font-family="Georgia,serif" font-size="60" font-weight="700" fill="currentColor">OPTITECH</text>'+close);
  return s;
 }
 const routes=JSON.parse(await fs.readFile('routes.json','utf8'));
@@ -179,6 +181,8 @@ for(const file of await fs.readdir('assets/site/_next/static/chunks'))if(file.en
   const from=s.indexOf('x[8]===',start),to=s.indexOf('x[12]===',from);
   if(from>=0&&to>from)s=s.slice(0,from)+patchLetters(s.slice(from,to),lastLetters)+s.slice(to);
  }
+ // Let the menu scroll natively while the background smooth scroll is locked.
+ if(file==='08-om41l.yg-h.js')s=s.replace('\"aria-label\":\"Primary\",className:', '\"aria-label\":\"Primary\",\"data-lenis-prevent\":\"true\",className:');
  // The existing randomised logo animation keeps its geometry and timing.
  s=s.replaceAll('/static/images/logos/${e}.png','/assets/local/platforms/${e}.svg');
  // Clipboard data is a contact URL, never an invented business email.
@@ -196,7 +200,7 @@ function visit(n){
  if(!n||typeof n!=='object')return;
  if(n.type==='ObjectExpression' && n.properties.some(p=>p.key?.name==='viewBox'&&p.value?.value==='0 0 356 266')){
   const c=n.properties.find(p=>p.key?.name==='children').value;
-  logoEdit=[c.start,c.end,'['+c.elements.slice(0,3).map(e=>logoCode.slice(e.start,e.end)).join(',')+',(0,H.jsx)("text",{x:"178",y:"242",textAnchor:"middle",fontFamily:"Georgia,serif",fontSize:"68",fontWeight:"700",fill:"currentColor",children:"OPTITECH"})]'];
+  logoEdit=[c.start,c.end,'['+c.elements.slice(0,3).map(e=>logoCode.slice(e.start,e.end)).join(',')+',(0,H.jsx)("text",{x:"178",y:"242",textAnchor:"middle",fontFamily:"Georgia,serif",fontSize:"60",fontWeight:"700",fill:"currentColor",children:"OPTITECH"})]'];
  }
  for(const v of Object.values(n))if(v&&typeof v==='object'){if(Array.isArray(v))v.forEach(visit);else visit(v);}
 }

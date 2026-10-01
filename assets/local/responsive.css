@@ -1,0 +1,158 @@
+/* Keep the archived motion design; let agency copy fit at every breakpoint. */
+.footer-bottom-wrapper {
+  white-space: normal;
+}
+.footer-bottom-wrapper > div {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1.1fr) minmax(0, 1fr);
+  gap: clamp(24px, 4vw, 64px);
+}
+.footer-bottom-wrapper > div > div {
+  min-width: 0;
+  width: auto;
+  margin-left: 0;
+}
+.footer-bottom-wrapper a {
+  overflow-wrap: anywhere;
+}
+.footer-bottom-wrapper a > span:last-child {
+  min-width: 0;
+}
+.footer-bottom-wrapper button {
+  position: static;
+  transform: none;
+  translate: none;
+  margin-top: 0;
+  align-self: flex-end;
+}
+footer {
+  overflow-x: clip;
+}
+/* The panel is animated by GSAP. Cap its size without changing its tween. */
+#primary-navigation {
+  max-height: calc(100dvh - 64px);
+}
+#primary-navigation nav {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  gap: 24px;
+}
+#primary-navigation nav > div {
+  flex-shrink: 0;
+}
+.service-item-info,
+.service-item-info > div,
+.service-item-text > span {
+  min-width: 0;
+}
+.service-item-text:has(> span + span) > span:first-child {
+  flex: 0 0 32%;
+}
+.service-item-text:has(> span + span) > span:last-child {
+  flex: 1 1 0;
+  overflow-wrap: anywhere;
+}
+.contact-hero input,
+.contact-hero textarea {
+  min-width: 0;
+  max-width: 100%;
+}
+@media (max-width: 1023px) {
+  .footer-bottom-wrapper > div {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+  }
+  .footer-bottom-wrapper > div > div:last-child {
+    grid-column: 1 / -1;
+  }
+  .footer-bottom-wrapper > div > div:last-child > div {
+    width: 100%;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .footer-bottom-wrapper button {
+    align-self: flex-start;
+  }
+  .footer-bottom-wrapper > div > div:last-child > div > div {
+    margin-top: 0;
+  }
+}
+@media (max-width: 767px) {
+  .footer-bottom-wrapper > div {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .footer-bottom-wrapper > div > div {
+    margin-top: 0;
+  }
+  .footer-bottom-wrapper > div > div:first-child > a {
+    font-size: clamp(24px, 7vw, 30px);
+    line-height: 1.15;
+  }
+  .service-item-info > div.flex.flex-row {
+    gap: 24px;
+  }
+  .service-item-num {
+    flex-shrink: 0;
+    width: clamp(64px, 22vw, 96px);
+  }
+  .service-item-info .text-3xl {
+    font-size: clamp(24px, 7.6vw, 30px);
+    line-height: 1.05;
+    overflow-wrap: anywhere;
+  }
+  .service-item-text:has(> span + span) {
+    align-items: flex-start;
+    padding-block: 8px;
+  }
+  .contact-hero input,
+  .contact-hero textarea,
+  .contact-hero select {
+    font-size: 16px;
+  }
+}
+@media (max-height: 600px) {
+  #primary-navigation nav > div:first-child {
+    margin-top: 56px;
+    gap: 10px;
+  }
+  #primary-navigation .nav-item {
+    font-size: 32px;
+    gap: 8px;
+  }
+  #primary-navigation nav > div:last-child {
+    padding-bottom: 24px;
+  }
+  #primary-navigation .social-item:first-child {
+    margin-bottom: 12px;
+  }
+  .contact-hero {
+    min-height: 480px;
+  }
+  .home-hero {
+    min-height: 600px;
+  }
+}
+@media (pointer: coarse) {
+  .contact-hero button,
+  .footer-bottom-wrapper a,
+  .footer-bottom-wrapper button,
+  #primary-navigation .social-item[href] {
+    min-height: 44px;
+  }
+}
+/* Clip the archived desktop gallery only while the stacked layout hydrates. */
+@media (max-width: 1279px) {
+  .layout-wrapper {
+    overflow-x: clip;
+  }
+}
+/* Let the entry choices wrap inside the wizard's measured clipping container. */
+.contact-hero fieldset > .flex.flex-wrap {
+  flex-wrap: wrap;
+  width: 100%;
+}
+.contact-hero fieldset > .flex.flex-wrap > button {
+  width: fit-content;
+  max-width: 100%;
+}

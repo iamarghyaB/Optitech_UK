@@ -1,0 +1,526 @@
+{
+  "checkedAt": "2026-10-01T06:46:44.459Z",
+  "layouts": [
+    {
+      "footerWidth": 320,
+      "h": 568,
+      "route": "/",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": 320,
+      "h": 568,
+      "route": "/clients",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/universe",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/contact",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": 320,
+      "h": 568,
+      "route": "/cookie-policy",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": 320,
+      "h": 568,
+      "route": "/privacy-policy",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/floyd-mayweather",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/neymar-jr",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/vodafone-cash",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/faze-x-lyrical-lemonade",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/cadillac",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/sohub-website",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/tsioulka",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/wanderworlds",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/david-beckham",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/get-moving",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": null,
+      "h": 568,
+      "route": "/work/anaconda",
+      "scrollWidth": 320,
+      "stylesheet": true,
+      "w": 320
+    },
+    {
+      "footerWidth": 390,
+      "h": 844,
+      "route": "/",
+      "scrollWidth": 390,
+      "stylesheet": true,
+      "w": 390
+    },
+    {
+      "footerWidth": 390,
+      "h": 844,
+      "route": "/clients",
+      "scrollWidth": 390,
+      "stylesheet": true,
+      "w": 390
+    },
+    {
+      "footerWidth": null,
+      "h": 844,
+      "route": "/contact",
+      "scrollWidth": 390,
+      "stylesheet": true,
+      "w": 390
+    },
+    {
+      "footerWidth": 768,
+      "h": 1024,
+      "route": "/",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": 768,
+      "h": 1024,
+      "route": "/clients",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/universe",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/contact",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": 768,
+      "h": 1024,
+      "route": "/cookie-policy",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": 768,
+      "h": 1024,
+      "route": "/privacy-policy",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/floyd-mayweather",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/neymar-jr",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/vodafone-cash",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/faze-x-lyrical-lemonade",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/cadillac",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/sohub-website",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/tsioulka",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/wanderworlds",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/david-beckham",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/get-moving",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": null,
+      "h": 1024,
+      "route": "/work/anaconda",
+      "scrollWidth": 768,
+      "stylesheet": true,
+      "w": 768
+    },
+    {
+      "footerWidth": 1024,
+      "h": 768,
+      "route": "/",
+      "scrollWidth": 1024,
+      "stylesheet": true,
+      "w": 1024
+    },
+    {
+      "footerWidth": 1024,
+      "h": 768,
+      "route": "/clients",
+      "scrollWidth": 1024,
+      "stylesheet": true,
+      "w": 1024
+    },
+    {
+      "footerWidth": null,
+      "h": 768,
+      "route": "/contact",
+      "scrollWidth": 1024,
+      "stylesheet": true,
+      "w": 1024
+    },
+    {
+      "footerWidth": 1440,
+      "h": 900,
+      "route": "/",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": 1440,
+      "h": 900,
+      "route": "/clients",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work",
+      "scrollWidth": 14241,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/universe",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/contact",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": 1440,
+      "h": 900,
+      "route": "/cookie-policy",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": 1440,
+      "h": 900,
+      "route": "/privacy-policy",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/floyd-mayweather",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/neymar-jr",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/vodafone-cash",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/faze-x-lyrical-lemonade",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/cadillac",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/sohub-website",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/tsioulka",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/wanderworlds",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/david-beckham",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/get-moving",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": null,
+      "h": 900,
+      "route": "/work/anaconda",
+      "scrollWidth": 1440,
+      "stylesheet": true,
+      "w": 1440
+    },
+    {
+      "footerWidth": 1920,
+      "h": 1080,
+      "route": "/",
+      "scrollWidth": 1920,
+      "stylesheet": true,
+      "w": 1920
+    },
+    {
+      "footerWidth": 1920,
+      "h": 1080,
+      "route": "/clients",
+      "scrollWidth": 1920,
+      "stylesheet": true,
+      "w": 1920
+    },
+    {
+      "footerWidth": null,
+      "h": 1080,
+      "route": "/contact",
+      "scrollWidth": 1920,
+      "stylesheet": true,
+      "w": 1920
+    }
+  ],
+  "landscapeMenu": {
+    "width": 844,
+    "height": 390,
+    "nativeScrollTop": 92,
+    "lastLinkBottom": 342,
+    "panelBottom": 366
+  },
+  "tabletContact": {
+    "width": 1024,
+    "allThreeChoicesWithinForm": true
+  },
+  "wizard": {
+    "tabletNameToDetails": true,
+    "phoneNameToCompany": true,
+    "phoneBackControl": true
+  },
+  "knownLimitation": "Archived frontend retains its previously documented recoverable React 418 hydration warning on responsive views."
+}
