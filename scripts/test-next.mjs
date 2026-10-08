@@ -7,6 +7,13 @@ const routes = JSON.parse(await fs.readFile('routes.json','utf8'));
 const digest = bytes => crypto.createHash('sha256').update(bytes).digest('hex');
 let checks = 0;
 for (const [route, files] of Object.entries(routes)) {
+  if (route === '/contact') {
+    const contact = await fetch(base + route, { redirect: 'manual' });
+    assert.equal(contact.status, 308);
+    assert.match(contact.headers.get('location'), /\/contact\/quote$/);
+    checks++;
+    continue;
+  }
   for (const [kind, file] of Object.entries(files)) {
     const response = await fetch(base+route,{headers:kind==='rsc'?{RSC:'1'}:{}});
     assert.equal(response.status,200,route+' '+kind);

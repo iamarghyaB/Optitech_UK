@@ -31,7 +31,7 @@ The homepage's eight measured section boxes and hero typography match the refere
 
 Animations, randomized text/logo states, video frames, pointer effects, and graphics performance vary with timing and hardware, so the screenshots are not a claim that every frame on every device is pixel-identical. Both the live site and the local copy emitted the same recoverable React hydration warning during mobile viewport emulation; the visible mobile layout and menu completed correctly. See `verification/REPORT.md`.
 
-Analytics are disabled. Contact forms are visual references and cannot send messages. Original agency email, social and map links now lead to the Optitech contact page. Retained third-party project imagery is labelled as demo/reference media, not Optitech client work.
+Analytics are disabled. The preserved contact wizard is kept as a reference capture; `/contact` now redirects to the working quotation form at `/contact/quote`. Production enquiry delivery requires the setup described below. Retained third-party project imagery is labelled as demo/reference media, not Optitech client work.
 
 ## Working with the reference
 
@@ -73,4 +73,33 @@ Git LFS must hydrate files before build/start. All original media remains tracke
 
 Edit `content/agency-content.mjs` for agency copy, services, GBP starting prices, FAQs and process stages, then run `npm run content:build`. The generator updates HTML, byte-counted Flight navigation records and application-bundle copy together. Library exports, stylesheets, animation timing and shaders are preserved. The original captures in `research/` make regeneration repeatable.
 
-The contact wizard is retained, including fields, selection, uploads and navigation. This reference project has no configured email delivery backend; final submissions are blocked with an honest notice. Connect an agency-owned delivery service before collecting enquiries. Do not substitute a made-up email address. Existing route names are retained to preserve navigation; future native service pages can be added through the App Router.
+The original contact wizard capture is retained in `pages/contact.html` for reference. Public contact links now reach the native quotation flow described below.
+
+## Digital services and quotation requests
+
+The homepage demo directory is now an eight-service directory. The original two-column pattern, typography, dividers, hover scramble, arrow effects and GSAP reveal timing are reused. Demo projects and media remain available at `/work`. Other homepage layouts and animation modules are preserved; four existing service price references are synchronised with the catalogue (business websites £799, e-commerce £1,299, local SEO £350/month and advertising management £350/month).
+
+- `/services`: service directory.
+- `/services/web-development`, `/services/ecommerce`, `/services/seo`, `/services/google-business-profile`.
+- `/services/digital-advertising`, `/services/ai-automation`, `/services/custom-software`, `/services/website-maintenance`.
+- `/contact/quote`: quotation form, accepting `service` and optional `package` query parameters.
+- `/contact`: redirects to the quotation form, preserving query parameters.
+- `/api/enquiries`: validated JSON enquiry submission endpoint.
+
+Edit `content/services.mjs` for service content, all 26 packages, GBP prices, delivery estimates, FAQs, comparisons and care-plan allowances. New pages use the reusable components in `components/services/` and scoped styles in `app/services.css`. The existing emblem and fonts are local assets. No runtime dependency was added.
+
+`scripts/build-services.mjs` applies the directory to the archived HTML, embedded hydration data, Flight payload and one compiled homepage module. It adds menu/footer links and a document-navigation bridge between the two Next.js builds. `npm run content:build` regenerates everything from the retained captures; `npm run build` also reapplies services before compiling. On a local build, stale generated `public/assets` deployment copies are removed so they cannot shadow the editable source assets. Vercel builds generate fresh static copies as before.
+
+### Enquiry delivery setup
+
+Copy `.env.example` to `.env.local` and configure `ENQUIRY_WEBHOOK_URL` with an agency-owned **HTTPS** CRM/form endpoint. `ENQUIRY_WEBHOOK_TOKEN` optionally sends a bearer token. Add these variables in the production host's settings too. The endpoint must durably accept the JSON enquiry and return a successful HTTP status. It should honour `Idempotency-Key` to prevent duplicate deliveries after a retry. No recipient address or external service has been invented, and no payment flow is implemented.
+
+The payload includes an enquiry UUID, creation time, customer details, requirements, consent, service slug/title and the selected package ID/name/indicative price/delivery estimate. Package details are derived from the catalogue on the server. Inputs, package membership, request size and request origin are checked; a honeypot rejects automated form fills. Failed requests retain form values and show an error rather than a success notice.
+
+Development without a webhook saves enquiries to `.data/enquiries/<id>.json`, ignored by Git. For a local production preview, set `ENQUIRY_TRANSPORT=local`. The success notice explicitly says the enquiry was saved locally and was **not delivered**. Local file storage is never used on Vercel. An unconfigured production deployment returns HTTP 503 and does not claim that an enquiry was received.
+
+### Verification
+
+Run `npm run build`, then start a local preview with the local transport. Set `BASE_URL` if its port differs from 4181. Run `npm run test:services` and `npm run test:migration`. Set `TEST_LOCAL_ENQUIRIES=1` only for a local preview to verify saved submissions; test fixtures are deleted afterwards. `npm run test:home-preservation` compares unrelated homepage markup, neighbouring animation modules and original global styles against the Git baseline.
+
+`scripts/test-services-browser.mjs` uses Playwright when available, with optional `BROWSER_MODULE_DIR` and `BROWSER_EXECUTABLE`. It checks desktop/mobile rendering, homepage links and reveals, keyboard FAQs/menu, package selection, failed-submit recovery and optional local submission. Evidence is saved under `verification/services/`. The previously documented recoverable React #418 warning on the preserved mobile homepage is reported separately. There is no ESLint command configured; Next.js compilation and JavaScript syntax checks are used. See `verification/services/REPORT.md` for the final results and limitations.

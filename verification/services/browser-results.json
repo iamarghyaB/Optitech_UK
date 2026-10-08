@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-08T09:03:29.344Z",
+  "checks": 97,
+  "screenshots": [
+    "home-desktop.png",
+    "web-development-desktop.png",
+    "website-maintenance-desktop.png",
+    "quote-desktop.png",
+    "home-mobile.png",
+    "web-development-mobile.png",
+    "website-maintenance-mobile.png",
+    "quote-mobile.png"
+  ],
+  "errors": [],
+  "failures": [],
+  "legacyWarnings": [
+    {
+      "kind": "mobile",
+      "url": "http://127.0.0.1:4181/",
+      "error": "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+    },
+    {
+      "kind": "mobile",
+      "url": "http://127.0.0.1:4181/",
+      "error": "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+    }
+  ]
+}

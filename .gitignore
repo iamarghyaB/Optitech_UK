@@ -8,3 +8,5 @@ out/
 # Generated static deployment copies and lookup index
 public/assets/
 reference-assets.json
+.data/
+.env.local
