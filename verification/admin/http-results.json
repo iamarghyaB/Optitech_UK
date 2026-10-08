@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-08T14:30:04.752Z",
+  "base": "http://127.0.0.1:4185",
+  "checks": 20,
+  "failures": [],
+  "authenticatedEdgeTest": "Pending owner activation; database authorization tested separately"
+}

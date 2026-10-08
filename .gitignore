@@ -10,3 +10,5 @@ public/assets/
 reference-assets.json
 .data/
 .env.local
+supabase/.temp/
+supabase/.branches/

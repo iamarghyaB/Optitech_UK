@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-08T14:24:29.513Z",
+  "base": "http://127.0.0.1:4185",
+  "checks": 34,
+  "errors": [],
+  "failures": [],
+  "authenticatedResponses": "Mocked UI fixtures; no Auth accounts created and no email sent."
+}

@@ -1,0 +1,10 @@
+project_id = "optitech-uk"
+[auth]
+site_url = "https://optitech-uk.vercel.app"
+additional_redirect_urls = ["https://optitech-uk.vercel.app/admin/activate"]
+[functions.enquiry-intake]
+verify_jwt = false
+[functions.admin-dashboard]
+verify_jwt = true
+[functions.admin-users]
+verify_jwt = true
