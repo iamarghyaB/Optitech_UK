@@ -79,7 +79,7 @@ await fs.writeFile(chunk, code);
 
 const marqueeChunk = 'assets/site/_next/static/chunks/0oo84nz.jrles.js';
 let marqueeCode = await fs.readFile(marqueeChunk, 'utf8');
-marqueeCode = marqueeCode.replace('"By Optitech · Demo reference",a]', 'e.serviceDirectory?"By Optitech":"By Optitech · Demo reference",a]');
+if (!marqueeCode.includes('e.serviceDirectory?')) marqueeCode = marqueeCode.replace('"By Optitech · Demo reference",a]', 'e.serviceDirectory?"By Optitech":"By Optitech · Demo reference",a]');
 acorn.parse(marqueeCode, { ecmaVersion: 'latest', sourceType: 'module' });
 await fs.writeFile(marqueeChunk, marqueeCode);
 

@@ -1,0 +1,10 @@
+/* Content and accessibility adjustments within the existing portfolio layout. */
+.portfolio-attribution{position:fixed;left:1.5rem;right:1.5rem;bottom:4.5rem;text-align:center;pointer-events:none;z-index:10;color:#707070;font-size:.75rem;line-height:1.4}
+.work-slide:focus-visible,.portfolio-details a:focus-visible,.portfolio-summary a:focus-visible,.work-mobile-category:focus-visible{outline:2px solid #434343;outline-offset:6px}
+.portfolio-detail .project-item-title{max-width:100%;line-height:1.05}
+.portfolio-detail .project-item-inner-right{white-space:normal}
+.portfolio-detail .project-item-inner{min-height:4rem}
+@media(min-width:768px){.portfolio-detail .project-item-inner{min-height:5rem}}
+@media(max-width:767px){.portfolio-detail .project-item-title{max-width:calc(100% - 2rem)}.portfolio-detail .project-item-inner{min-height:5rem}.portfolio-detail .project-item-image{top:calc(100% + 1rem)}}
+@media(max-width:1279px){.portfolio-attribution{position:relative;left:auto;right:auto;bottom:auto;margin-bottom:2rem}}
+@media(prefers-reduced-motion:reduce){.work-slide span,.work-mobile-card-image img,.portfolio-details a{transition-duration:.01ms!important}}

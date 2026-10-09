@@ -13,7 +13,7 @@ export default function SiteNavigation() {
     <dialog ref={dialog} className="service-menu" aria-labelledby="navigation-title" onClick={event => { if (event.target === dialog.current) close(); }}>
       <div className="service-menu-content"><button className="service-menu-close" onClick={close} aria-label="Close navigation menu">×</button>
         <p id="navigation-title" className="service-eyebrow">Optitech / Navigation</p>
-        <nav aria-label="Primary"><a href="/">Home</a><a href="/services">Services</a><a href="/work">Demo Work</a><a href="/universe">Our Approach</a><a href="/contact/quote">Get a Free Quote</a></nav>
+        <nav aria-label="Primary"><a href="/">Home</a><a href="/services">Services</a><a href="/work">Work</a><a href="/universe">Our Approach</a><a href="/contact/quote">Get a Free Quote</a></nav>
         <nav className="service-menu-services" aria-label="Our services">{services.map(service => <a key={service.slug} href={`/services/${service.slug}`}>{service.title}</a>)}</nav>
       </div>
     </dialog>

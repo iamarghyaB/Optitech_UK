@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-09T07:51:01.758Z",
+  "base": "http://127.0.0.1:4187",
+  "results": [
+    "Gallery hover retained",
+    "desktop: related detail navigation",
+    "desktop: actual enquiry CTA navigation",
+    "tablet: related detail navigation",
+    "tablet: actual enquiry CTA navigation",
+    "mobile: related detail navigation",
+    "mobile: actual enquiry CTA navigation"
+  ],
+  "errors": []
+}

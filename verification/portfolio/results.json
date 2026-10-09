@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-09T07:45:49.122Z",
+  "base": "http://127.0.0.1:4187",
+  "projects": [
+    {
+      "title": "The Workers Agency",
+      "route": "/work/the-workers-agency"
+    },
+    {
+      "title": "NewMRKT",
+      "route": "/work/newmrkt"
+    },
+    {
+      "title": "An-Noor",
+      "route": "/work/an-noor"
+    },
+    {
+      "title": "Campusflow",
+      "route": "/work/campusflow"
+    },
+    {
+      "title": "Nike Air Max Showcase",
+      "route": "/work/nike-air-max-showcase"
+    },
+    {
+      "title": "Makezaa Platform",
+      "route": "/work/makezaa-agent-ready-platform"
+    },
+    {
+      "title": "Golden Touch Contractors",
+      "route": "/work/golden-touch-contractors"
+    }
+  ],
+  "checks": 216,
+  "failures": [],
+  "errors": [],
+  "failedResources": []
+}

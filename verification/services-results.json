@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-08T09:11:05.119Z",
+  "date": "2026-10-09T07:44:01.110Z",
   "services": 8,
   "packages": 26,
-  "checks": 295,
-  "localEnquiryTested": true,
+  "checks": 290,
+  "localEnquiryTested": false,
   "failures": []
 }
