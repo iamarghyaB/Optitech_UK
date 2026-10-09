@@ -22,7 +22,7 @@ for (const [i, project] of projects.entries()) {
   check(title && !titles.has(title), route + ' unique title'); titles.add(title);
   check(html.includes(`rel="canonical" href="https://optitech-uk.vercel.app${route}"`), route + ' canonical');
   check((html.match(/<h1\b/g) || []).length === 1, route + ' one H1');
-  check(html.includes('name="robots" content="index, follow"'), route + ' indexable');
+  check((html.match(/<meta name="robots"[^>]*>/g) || []).length === 1 && html.includes('name="robots" content="index, follow"'), route + ' indexable without conflicting robots tags');
   check(html.includes(project.liveUrl) && html.includes('noopener noreferrer'), route + ' live link');
   for (const image of [project.cover, ...project.gallery]) {
     const asset = await fetch(base + image.src);

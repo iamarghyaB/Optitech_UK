@@ -145,11 +145,14 @@ function document(template, body, project, next) {
     .replace(/<meta name="description" content="[^"]*"\s*\/?>/, `<meta name="description" content="${escape(description)}"/>`)
     .replace(/<meta name="robots" content="[^"]*"\s*\/?>/, '<meta name="robots" content="index, follow"/>')
     .replace(/<link rel="canonical" href="[^"]*"\s*\/?>/, `<link rel="canonical" href="${canonical}"/>`);
-  for (const property of ['og:title', 'twitter:title']) doc = doc.replace(new RegExp(`<meta (?:property|name)="${property}" content="[^"]*"\\s*\\/?>`), `<meta property="${property}" content="${escape(title)}"/>`);
-  for (const property of ['og:description', 'twitter:description']) doc = doc.replace(new RegExp(`<meta (?:property|name)="${property}" content="[^"]*"\\s*\\/?>`), `<meta property="${property}" content="${escape(description)}"/>`);
+  for (const property of ['og:title', 'twitter:title']) doc = doc.replace(new RegExp(`<meta (?:property|name)="${property}" content="[^"]*"\\s*\\/?>`), `<meta ${property.startsWith('twitter:') ? 'name' : 'property'}="${property}" content="${escape(title)}"/>`);
+  for (const property of ['og:description', 'twitter:description']) doc = doc.replace(new RegExp(`<meta (?:property|name)="${property}" content="[^"]*"\\s*\\/?>`), `<meta ${property.startsWith('twitter:') ? 'name' : 'property'}="${property}" content="${escape(description)}"/>`);
   doc = doc.replace(/<meta property="og:url" content="[^"]*"\s*\/?>/, `<meta property="og:url" content="${canonical}"/>`);
   // Remove unrelated demo media preloads and social covers inherited from the template.
   doc = doc.replace(/<link rel="preload" as="image"[^>]*>/g, '');
+  // The archive originally adds a second noindex tag for the reference copy.
+  // Keep exactly one robots directive on the genuine portfolio pages.
+  doc = doc.replace(/<meta name="robots"[^>]*>/g, '').replace('</head>', '<meta name="robots" content="index, follow"/></head>');
   if (!doc.includes('href="/assets/local/portfolio.css"')) doc = doc.replace('</head>', '<link rel="stylesheet" href="/assets/local/portfolio.css"/></head>');
   if (project) doc = doc.replaceAll('floyd-mayweather', project.slug.current);
   return doc;

@@ -77,7 +77,10 @@ and header animations remain unchanged. Content generation is idempotent.
   desktop 1440px, tablet 820px and mobile 390px; **zero runtime or asset errors**.
 - Verified source order, seven accessible cards, hover title reveal, carousel
   dragging, keyboard opening transitions, covers, gallery loading, metadata,
-  canonical URLs, headings, live URLs, enquiry links and eleven legacy redirects.
+canonical URLs, headings, live URLs, enquiry links and eleven legacy redirects.
+- Final SEO check removes the inherited reference noindex directive: each
+  portfolio page has exactly one `index, follow` robots tag and correct social
+  metadata attributes.
 - Services regression checks: **290 passed** across eight services and 26 packages.
 - Compatibility checks: **32 passed** across 14 routes, including HTML/Flight
   responses and video byte ranges.
