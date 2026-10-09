@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "team-at-work",
+    "url": "/assets/universe/team-at-work.webp",
+    "width": 2560,
+    "height": 3413,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/team-at-work-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 47462,
+        "filename": "team-at-work-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/team-at-work-960.webp",
+        "width": 960,
+        "height": 1280,
+        "mimeType": "image/webp",
+        "filesize": 141826,
+        "filename": "team-at-work-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/team-at-work-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "mimeType": "image/webp",
+        "filesize": 344022,
+        "filename": "team-at-work-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "electronics-testing",
+    "url": "/assets/universe/electronics-testing.webp",
+    "width": 1536,
+    "height": 2048,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/electronics-testing-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 80694,
+        "filename": "electronics-testing-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/electronics-testing-960.webp",
+        "width": 960,
+        "height": 1280,
+        "mimeType": "image/webp",
+        "filesize": 243796,
+        "filename": "electronics-testing-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/electronics-testing-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "mimeType": "image/webp",
+        "filesize": 390458,
+        "filename": "electronics-testing-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "research-workspace",
+    "url": "/assets/universe/research-workspace.webp",
+    "width": 2048,
+    "height": 1536,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/research-workspace-480.webp",
+        "width": 480,
+        "height": 360,
+        "mimeType": "image/webp",
+        "filesize": 24968,
+        "filename": "research-workspace-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/research-workspace-960.webp",
+        "width": 960,
+        "height": 720,
+        "mimeType": "image/webp",
+        "filesize": 78334,
+        "filename": "research-workspace-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/research-workspace-1536.webp",
+        "width": 1536,
+        "height": 1152,
+        "mimeType": "image/webp",
+        "filesize": 162700,
+        "filename": "research-workspace-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "hardware-upgrades",
+    "url": "/assets/universe/hardware-upgrades.webp",
+    "width": 1536,
+    "height": 2048,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/hardware-upgrades-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 46832,
+        "filename": "hardware-upgrades-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/hardware-upgrades-960.webp",
+        "width": 960,
+        "height": 1280,
+        "mimeType": "image/webp",
+        "filesize": 128340,
+        "filename": "hardware-upgrades-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/hardware-upgrades-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "mimeType": "image/webp",
+        "filesize": 214626,
+        "filename": "hardware-upgrades-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "hardware-components",
+    "url": "/assets/universe/hardware-components.webp",
+    "width": 1820,
+    "height": 2048,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/hardware-components-480.webp",
+        "width": 480,
+        "height": 540,
+        "mimeType": "image/webp",
+        "filesize": 59534,
+        "filename": "hardware-components-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/hardware-components-960.webp",
+        "width": 960,
+        "height": 1080,
+        "mimeType": "image/webp",
+        "filesize": 156420,
+        "filename": "hardware-components-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/hardware-components-1536.webp",
+        "width": 1536,
+        "height": 1728,
+        "mimeType": "image/webp",
+        "filesize": 294280,
+        "filename": "hardware-components-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "web-development-workspace",
+    "url": "/assets/universe/web-development-workspace.webp",
+    "width": 2048,
+    "height": 1536,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/web-development-workspace-480.webp",
+        "width": 480,
+        "height": 360,
+        "mimeType": "image/webp",
+        "filesize": 39826,
+        "filename": "web-development-workspace-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/web-development-workspace-960.webp",
+        "width": 960,
+        "height": 720,
+        "mimeType": "image/webp",
+        "filesize": 121710,
+        "filename": "web-development-workspace-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/web-development-workspace-1536.webp",
+        "width": 1536,
+        "height": 1152,
+        "mimeType": "image/webp",
+        "filesize": 257292,
+        "filename": "web-development-workspace-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "local-ai-workspace",
+    "url": "/assets/universe/local-ai-workspace.webp",
+    "width": 2048,
+    "height": 1536,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/local-ai-workspace-480.webp",
+        "width": 480,
+        "height": 360,
+        "mimeType": "image/webp",
+        "filesize": 28754,
+        "filename": "local-ai-workspace-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/local-ai-workspace-960.webp",
+        "width": 960,
+        "height": 720,
+        "mimeType": "image/webp",
+        "filesize": 92098,
+        "filename": "local-ai-workspace-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/local-ai-workspace-1536.webp",
+        "width": 1536,
+        "height": 1152,
+        "mimeType": "image/webp",
+        "filesize": 195900,
+        "filename": "local-ai-workspace-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "keyboard-and-controllers",
+    "url": "/assets/universe/keyboard-and-controllers.webp",
+    "width": 2048,
+    "height": 1536,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/keyboard-and-controllers-480.webp",
+        "width": 480,
+        "height": 360,
+        "mimeType": "image/webp",
+        "filesize": 47120,
+        "filename": "keyboard-and-controllers-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/keyboard-and-controllers-960.webp",
+        "width": 960,
+        "height": 720,
+        "mimeType": "image/webp",
+        "filesize": 116450,
+        "filename": "keyboard-and-controllers-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/keyboard-and-controllers-1536.webp",
+        "width": 1536,
+        "height": 1152,
+        "mimeType": "image/webp",
+        "filesize": 209214,
+        "filename": "keyboard-and-controllers-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "keyboard-configuration",
+    "url": "/assets/universe/keyboard-configuration.webp",
+    "width": 1536,
+    "height": 2048,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/keyboard-configuration-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 33556,
+        "filename": "keyboard-configuration-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/keyboard-configuration-960.webp",
+        "width": 960,
+        "height": 1280,
+        "mimeType": "image/webp",
+        "filesize": 86842,
+        "filename": "keyboard-configuration-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/keyboard-configuration-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "mimeType": "image/webp",
+        "filesize": 143414,
+        "filename": "keyboard-configuration-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "network-cable-testing",
+    "url": "/assets/universe/network-cable-testing.webp",
+    "width": 1536,
+    "height": 2048,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/network-cable-testing-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 43318,
+        "filename": "network-cable-testing-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/network-cable-testing-960.webp",
+        "width": 960,
+        "height": 1280,
+        "mimeType": "image/webp",
+        "filesize": 116646,
+        "filename": "network-cable-testing-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/network-cable-testing-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "mimeType": "image/webp",
+        "filesize": 195966,
+        "filename": "network-cable-testing-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "interface-prototyping",
+    "url": "/assets/universe/interface-prototyping.webp",
+    "width": 736,
+    "height": 1308,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/interface-prototyping-480.webp",
+        "width": 480,
+        "height": 853,
+        "mimeType": "image/webp",
+        "filesize": 69938,
+        "filename": "interface-prototyping-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/interface-prototyping-960.webp",
+        "width": 736,
+        "height": 1308,
+        "mimeType": "image/webp",
+        "filesize": 127182,
+        "filename": "interface-prototyping-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/interface-prototyping-1536.webp",
+        "width": 736,
+        "height": 1308,
+        "mimeType": "image/webp",
+        "filesize": 127182,
+        "filename": "interface-prototyping-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "production-workspace",
+    "url": "/assets/universe/production-workspace.webp",
+    "width": 736,
+    "height": 981,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/production-workspace-480.webp",
+        "width": 480,
+        "height": 640,
+        "mimeType": "image/webp",
+        "filesize": 89990,
+        "filename": "production-workspace-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/production-workspace-960.webp",
+        "width": 736,
+        "height": 981,
+        "mimeType": "image/webp",
+        "filesize": 184408,
+        "filename": "production-workspace-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/production-workspace-1536.webp",
+        "width": 736,
+        "height": 981,
+        "mimeType": "image/webp",
+        "filesize": 184408,
+        "filename": "production-workspace-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "mobile-app-development",
+    "url": "/assets/universe/mobile-app-development.webp",
+    "width": 736,
+    "height": 1308,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/mobile-app-development-480.webp",
+        "width": 480,
+        "height": 853,
+        "mimeType": "image/webp",
+        "filesize": 52396,
+        "filename": "mobile-app-development-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/mobile-app-development-960.webp",
+        "width": 736,
+        "height": 1308,
+        "mimeType": "image/webp",
+        "filesize": 116568,
+        "filename": "mobile-app-development-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/mobile-app-development-1536.webp",
+        "width": 736,
+        "height": 1308,
+        "mimeType": "image/webp",
+        "filesize": 116568,
+        "filename": "mobile-app-development-1536.webp"
+      }
+    }
+  },
+  {
+    "slug": "mobile-development-workspace",
+    "url": "/assets/universe/mobile-development-workspace.webp",
+    "width": 736,
+    "height": 1134,
+    "sizes": {
+      "thumbnail": {
+        "url": "/assets/universe/responsive/mobile-development-workspace-480.webp",
+        "width": 480,
+        "height": 740,
+        "mimeType": "image/webp",
+        "filesize": 46040,
+        "filename": "mobile-development-workspace-480.webp"
+      },
+      "medium": {
+        "url": "/assets/universe/responsive/mobile-development-workspace-960.webp",
+        "width": 736,
+        "height": 1134,
+        "mimeType": "image/webp",
+        "filesize": 95404,
+        "filename": "mobile-development-workspace-960.webp"
+      },
+      "large": {
+        "url": "/assets/universe/responsive/mobile-development-workspace-1536.webp",
+        "width": 736,
+        "height": 1134,
+        "mimeType": "image/webp",
+        "filesize": 95404,
+        "filename": "mobile-development-workspace-1536.webp"
+      }
+    }
+  }
+]

@@ -13,12 +13,13 @@
     "assets:restore": "git lfs checkout && node scripts/check-assets.mjs",
     "dev": "next dev --hostname 127.0.0.1 --port 4173",
     "predev": "node scripts/check-assets.mjs",
-    "prebuild": "node scripts/check-assets.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/prepare-vercel-assets.mjs",
-    "build:reference": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs",
+    "prebuild": "node scripts/check-assets.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs && node scripts/prepare-vercel-assets.mjs",
+    "build:reference": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs",
     "test:migration": "node scripts/test-next.mjs",
-    "content:build": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs",
+    "content:build": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs",
     "test:services": "node scripts/test-services.mjs",
     "test:portfolio": "node scripts/test-portfolio.mjs",
+    "test:universe": "node scripts/test-universe.mjs",
     "test:home-preservation": "node scripts/test-home-preservation.mjs"
   },
   "dependencies": {
