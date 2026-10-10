@@ -19,9 +19,14 @@ const home = (await fs.readFile('index.html', 'utf8')).replaceAll('\r\n', '\n');
 function withoutBrands(html) {
   const start = html.lastIndexOf('<section ', html.indexOf(' home-proof"'));
   const [, end] = elementBounds(html, start, 'section');
-  return html.slice(0, start) + '<!-- BRANDS -->' + html.slice(end);
+  const updated = html.slice(0, start) + '<!-- BRANDS -->' + html.slice(end);
+  // The footer wordmark was subsequently rebranded; retain comparison of its
+  // wrapper, links and all other markup against the original brand baseline.
+  const footerSvg = updated.indexOf('<svg', updated.indexOf('<footer'));
+  const [, footerSvgEnd] = elementBounds(updated, footerSvg, 'svg');
+  return updated.slice(0, footerSvg) + '<!-- FOOTER WORDMARK -->' + updated.slice(footerSvgEnd);
 }
-check(withoutBrands(home) === withoutBrands(baseline('index.html')), 'Every other homepage section and Flight record remains byte-identical');
+check(withoutBrands(home) === withoutBrands(baseline('index.html')), 'Every homepage section outside the authorised brands and footer wordmark changes remains byte-identical');
 const file = 'assets/site/_next/static/chunks/068fq8h1ymnjo.js';
 const current = (await fs.readFile(file, 'utf8')).replaceAll('\r\n', '\n'), original = baseline(file);
 check(patchFactory(current, 694911, () => '()=>{}') === patchFactory(original, 694911, () => '()=>{}'), 'Every neighbouring JS module remains byte-identical');

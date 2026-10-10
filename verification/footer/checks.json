@@ -1,0 +1,18 @@
+[
+  {
+    "viewport": "desktop",
+    "branding": true,
+    "overflow": false,
+    "backToTop": true,
+    "navigation": true,
+    "runtimeErrors": []
+  },
+  {
+    "viewport": "mobile",
+    "branding": true,
+    "overflow": false,
+    "backToTop": true,
+    "navigation": false,
+    "runtimeErrors": []
+  }
+]
