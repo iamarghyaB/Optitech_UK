@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "elite-studios",
+    "url": "/assets/brands/elite-studios.svg",
+    "width": 1200,
+    "height": 1200,
+    "originalBytes": 11396,
+    "optimisedBytes": 10940,
+    "originalSha256": "262c3673fbef47e22cb010a3de6dee7d4588e1d495c93d0ba249cddf162be72b",
+    "optimisedSha256": "11934a9d6e784b5d25769fe454bf766468c46c9018225ac3ae491c1176a3b1ea",
+    "checks": [
+      {
+        "width": 256,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 512,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 1024,
+        "rgbaIdentical": true
+      }
+    ]
+  },
+  {
+    "slug": "phoenix",
+    "url": "/assets/brands/phoenix.svg",
+    "width": 500,
+    "height": 500,
+    "originalBytes": 32262,
+    "optimisedBytes": 31144,
+    "originalSha256": "2779bb1258f701486279c16517d201f71d8532eccfaceb17379b53939b5311d9",
+    "optimisedSha256": "9cc766b7a991026da1429f987e5a422d9db67e0124f17473c9549bfb7d967fd3",
+    "checks": [
+      {
+        "width": 256,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 512,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 1024,
+        "rgbaIdentical": true
+      }
+    ]
+  },
+  {
+    "slug": "supersystem",
+    "url": "/assets/brands/supersystem.svg",
+    "width": 84,
+    "height": 73,
+    "originalBytes": 27246,
+    "optimisedBytes": 26936,
+    "originalSha256": "bd9b5db0a50623b16e9f26eb4a8d40dc143335d09471e4aca3a443b15ea1fd83",
+    "optimisedSha256": "8cade83deaa5c9f7154ced203d207b0961f40d9381fddee4dd0192b81edce94a",
+    "checks": [
+      {
+        "width": 256,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 512,
+        "rgbaIdentical": true
+      },
+      {
+        "width": 1024,
+        "rgbaIdentical": true
+      }
+    ]
+  },
+  {
+    "slug": "makezaa",
+    "url": "/assets/brands/makezaa.png",
+    "width": 593,
+    "height": 593,
+    "originalBytes": 384610,
+    "optimisedBytes": 346920,
+    "originalSha256": "ec3fa9eddf340d1765ae107d984119f239abce1d9ab0c6e1240e6c8910c99074",
+    "optimisedSha256": "80a7ffddab1fdf178d9489cca8668143fe9ff64c9ee5e87e17c643a108cb6d7a",
+    "checks": [
+      {
+        "width": 593,
+        "rgbaIdentical": true
+      }
+    ]
+  },
+  {
+    "slug": "an-noor",
+    "url": "/assets/brands/an-noor.png",
+    "width": 515,
+    "height": 231,
+    "originalBytes": 89333,
+    "optimisedBytes": 76482,
+    "originalSha256": "bb9d8dd372e3dd0c45331c305ac27fce83473ddac87086133d3b469cdfc735d1",
+    "optimisedSha256": "1dfcbe6ac15de9926933216a09b1d37af86b994f3446b817a1d0552b1021b11b",
+    "checks": [
+      {
+        "width": 515,
+        "rgbaIdentical": true
+      }
+    ]
+  },
+  {
+    "slug": "newmrkt",
+    "url": "/assets/brands/newmrkt.png",
+    "width": 2048,
+    "height": 1152,
+    "originalBytes": 1061183,
+    "optimisedBytes": 992693,
+    "originalSha256": "6123638c590af35032dec58aa613500278bb44cb7d6da8639b7b77794d0204a4",
+    "optimisedSha256": "a598c91e6fe6cdd613687c760bb221ea2be56b76899da9dbafbc00cdb2b64171",
+    "checks": [
+      {
+        "width": 2048,
+        "rgbaIdentical": true
+      }
+    ]
+  }
+]

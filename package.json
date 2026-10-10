@@ -13,14 +13,15 @@
     "assets:restore": "git lfs checkout && node scripts/check-assets.mjs",
     "dev": "next dev --hostname 127.0.0.1 --port 4173",
     "predev": "node scripts/check-assets.mjs",
-    "prebuild": "node scripts/check-assets.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs && node scripts/prepare-vercel-assets.mjs",
-    "build:reference": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs",
+    "prebuild": "node scripts/check-assets.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs && node scripts/build-brands.mjs && node scripts/prepare-vercel-assets.mjs",
+    "build:reference": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs && node scripts/build-brands.mjs",
     "test:migration": "node scripts/test-next.mjs",
-    "content:build": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs",
+    "content:build": "node scripts/build.mjs && node scripts/build-agency-content.mjs && node scripts/build-services.mjs && node scripts/build-portfolio.mjs && node scripts/build-universe.mjs && node scripts/build-brands.mjs",
     "test:services": "node scripts/test-services.mjs",
     "test:portfolio": "node scripts/test-portfolio.mjs",
     "test:universe": "node scripts/test-universe.mjs",
-    "test:home-preservation": "node scripts/test-home-preservation.mjs"
+    "test:home-preservation": "node scripts/test-home-preservation.mjs",
+    "test:brands": "node scripts/test-brands.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
