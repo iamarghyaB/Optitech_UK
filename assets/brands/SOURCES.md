@@ -11,7 +11,7 @@ Retrieved 10 October 2026. Golden and Touch was excluded at the user's request.
 | phoenix.svg | Supplied `company_logo (2).svg` |
 | supersystem.svg | Supplied `company_logo (3).svg` |
 
-PNG files retain original dimensions and pixels, including alpha and colour profiles. SVG optimisation removes comments, the XML declaration and whitespace between tags; all artwork, viewBoxes, colours, gradients, shadows and backgrounds remain unchanged. The supplied SVGs contain backgrounds, which have been preserved.
+PNG files retain original dimensions and pixels, including alpha and colour profiles. SVG optimisation removes comments, the XML declaration and whitespace between tags, and normalises line endings; all artwork, viewBoxes, colours, gradients, shadows and backgrounds remain unchanged. The supplied SVGs contain backgrounds, which have been preserved.
 
 `verification/brands/asset-comparison.json` records source and output hashes, byte counts and exact RGBA comparisons. SVGs were compared at widths 256, 512 and 1024. PNGs were compared at their original dimensions. The brand grid serves these local files directly, without another image transformation or colour filter.
 

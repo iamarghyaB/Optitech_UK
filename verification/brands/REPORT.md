@@ -5,7 +5,7 @@ Six logos included: Makezaa, An-Noor Welfare Trust, NewMRKT, Elite Studios, phoe
 ## Asset preservation
 
 - Local assets: `assets/brands/`; provenance: `assets/brands/SOURCES.md`.
-- Total size reduced from 1,606,030 to 1,485,115 bytes, without resizing or repainting artwork.
+- Total size reduced from 1,606,030 to 1,484,657 bytes, without resizing or repainting artwork.
 - All PNG source and output RGBA pixels match exactly at original dimensions; ICC profiles retained.
 - All SVG source and output RGBA pixels match exactly at widths 256, 512 and 1024. ViewBoxes, artwork, colours, gradients and original backgrounds retained.
 - Files served directly so a secondary image optimiser cannot change their colours or alpha.

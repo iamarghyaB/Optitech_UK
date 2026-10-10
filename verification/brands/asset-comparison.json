@@ -5,9 +5,9 @@
     "width": 1200,
     "height": 1200,
     "originalBytes": 11396,
-    "optimisedBytes": 10940,
+    "optimisedBytes": 10889,
     "originalSha256": "262c3673fbef47e22cb010a3de6dee7d4588e1d495c93d0ba249cddf162be72b",
-    "optimisedSha256": "11934a9d6e784b5d25769fe454bf766468c46c9018225ac3ae491c1176a3b1ea",
+    "optimisedSha256": "b3dc46def7a856c5622b1a08245f0cb2ecbe37f287034659752eee0618d82c1f",
     "checks": [
       {
         "width": 256,
@@ -29,9 +29,9 @@
     "width": 500,
     "height": 500,
     "originalBytes": 32262,
-    "optimisedBytes": 31144,
+    "optimisedBytes": 30947,
     "originalSha256": "2779bb1258f701486279c16517d201f71d8532eccfaceb17379b53939b5311d9",
-    "optimisedSha256": "9cc766b7a991026da1429f987e5a422d9db67e0124f17473c9549bfb7d967fd3",
+    "optimisedSha256": "a1b4ad75fb4cc0f978c2a936c1b52466b6a4b7e7e18faafe7501587ad8ec1dbb",
     "checks": [
       {
         "width": 256,
@@ -53,9 +53,9 @@
     "width": 84,
     "height": 73,
     "originalBytes": 27246,
-    "optimisedBytes": 26936,
+    "optimisedBytes": 26726,
     "originalSha256": "bd9b5db0a50623b16e9f26eb4a8d40dc143335d09471e4aca3a443b15ea1fd83",
-    "optimisedSha256": "8cade83deaa5c9f7154ced203d207b0961f40d9381fddee4dd0192b81edce94a",
+    "optimisedSha256": "f7f0744b0eadb7a7e9e86a6269caf5dcdbe690a7cdf348950e7d4bed04420325",
     "checks": [
       {
         "width": 256,

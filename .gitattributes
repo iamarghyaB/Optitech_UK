@@ -5,3 +5,4 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 
 *.JPG filter=lfs diff=lfs merge=lfs -text
+assets/brands/*.svg text eol=lf
